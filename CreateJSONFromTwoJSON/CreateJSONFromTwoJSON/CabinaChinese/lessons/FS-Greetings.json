@@ -1,0 +1,247 @@
+{
+    "items":[
+             {
+             "spanish":"¿Cómo se llama usted?",
+             "english":"What is your name?",
+             "spanishaudio":"como-se-llama-usted",
+             "image":"como-se-llama-usted",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "what_is_your_name",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"Me llamo María.",
+             "english":"My name is Mary.",
+             "spanishaudio":"me-llamo-maria",
+             "image":"me-llamo-maria",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "my_name_is_mary",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"¿Cómo se llama su profesora?",
+             "english":"What’s your teacher’s name?",
+             "spanishaudio":"como-se-llama-su-profesora",
+             "image":"como-se-llama-su-profesora",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "what_is_your_tachers_name",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"¿Cómo se llama su amigo?",
+             "english":"What is your friend’s name?",
+             "spanishaudio":"como-se-llama-su-amigo",
+             "image":"como-se-llama-su-amigo",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "what_is_your_friends_name",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"Mi amigo se llama Andrés.",
+             "english":"My friend’s name is Andrés.",
+             "spanishaudio":"mi-amigo-se-llama-andres",
+             "image":"mi-amigo-se-llama-andres",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "my_friends_name_is_andres",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"¿De dónde es usted?",
+             "english":"Where are you from?",
+             "spanishaudio":"de-donde-es-usted",
+             "image":"de-donde-es-usted",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "where_are_you_from",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"Soy de Chicago.",
+             "english":"I'm from Chicago.",
+             "spanishaudio":"soy-de-chicago",
+             "image":"soy-de-chicago",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "im_from_chicago",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"¿Cómo está usted hoy?",
+             "english":"How are you today?",
+             "spanishaudio":"como-esta-usted-hoy",
+             "image":"como-esta-usted-hoy",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "how_are_you_today",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"Estoy muy bien.",
+             "english":"I’m very well.",
+             "spanishaudio":"estoy-muy-bien",
+             "image":"estoy-muy-bien",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "im_very_well",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"Estoy muy mal.",
+             "english":"I’m very bad.",
+             "spanishaudio":"estoy-muy-mal",
+             "image":"estoy-muy-mal",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "im_very_bad",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"¿Cómo está su amiga hoy?",
+             "english":"How is your friend today?",
+             "spanishaudio":"como-esta-su-amiga-hoy",
+             "image":"como-esta-su-amiga-hoy",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "how_is_your_friend_today",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"Mi amiga está bien.",
+             "english":"My friend is fine.",
+             "spanishaudio":"mi-amiga-esta-bien",
+             "image":"mi-amiga-esta-bien",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "my_friend_is_fine",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"¿Cómo está el profesor?",
+             "english":"How is the teacher doing?",
+             "spanishaudio":"como-esta-el-profesor",
+             "image":"como-esta-el-profesor",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "how_is_the_teacher_doing",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"El profesor está mal.",
+             "english":"The teacher is not very well.",
+             "spanishaudio":"el-profesor-esta-mal",
+             "image":"el-profesor-esta-mal",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "the_teacher_is_not_very_well",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"Buenos días.",
+             "english":"Good morning.",
+             "spanishaudio":"buenos-dias",
+             "image":"buenos-dias",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "good_morning",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"Buenas tardes.",
+             "english":"Good afternoon.",
+             "spanishaudio":"buenas-tardes",
+             "image":"buenas-tardes",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "good_afternoon",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"Buenas noches.",
+             "english":"Good evening.",
+             "spanishaudio":"buenas-noches",
+             "image":"buenas-noches",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "good_evening",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"¿Cómo están sus padres?",
+             "english":"How are your parents?",
+             "spanishaudio":"como-estan-sus-padres",
+             "image":"como-estan-sus-padres",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "how_are_your_parents",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"Mis padres están así-así (más o menos).",
+             "english":"My parents are so-so.",
+             "spanishaudio":"mis-padres-estan-asi-asi",
+             "image":"mis-padres-estan-asi-asi",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "my_parents_are_so_so",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"¿Cómo están los animales?",
+             "english":"How are the animals?",
+             "spanishaudio":"como-estan-los-animales",
+             "image":"como-estan-los-animales",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "how_are_the_animals",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {  
+             "spanish":"Los animales están muy bien.",
+             "english":"The animals are very well.",
+             "spanishaudio":"los-animales-estan-muy-bien",
+             "image":"los-animales-estan-muy-bien",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "the_animals_are_very_well",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {  
+             "spanish":"Adiós. Hasta luego.",
+             "english":"Goodbye. See you later.",
+             "spanishaudio":"adios-hasta-luego",
+             "image":"adios-hasta-luego",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "goodbye_see_you_later",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             }
+             
+             ]
+}

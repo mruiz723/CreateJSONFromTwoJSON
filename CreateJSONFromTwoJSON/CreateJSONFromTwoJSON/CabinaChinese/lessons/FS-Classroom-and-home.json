@@ -1,0 +1,214 @@
+{
+    "items":[
+             {
+             "spanish":"alcoba",
+             "english":"bedroom",
+             "spanishaudio":"alcoba-2",
+             "image":"alcoba-2",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "bedroom",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"baño",
+             "english":"bathroom",
+             "spanishaudio":"bano",
+             "image":"bano",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "bathroom",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"cama",
+             "english":"bed",
+             "spanishaudio":"cama-2",
+             "image":"cama-2",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "bed",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"casa",
+             "english":"house",
+             "spanishaudio":"casa",
+             "image":"casa",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "oas_eng_house",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"carro, coche",
+             "english":"car",
+             "spanishaudio":"coche",
+             "image":"coche",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "car",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"cocina",
+             "english":"kitchen",
+             "spanishaudio":"cocina",
+             "image":"cocina",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "eng_kitchen",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"comedor",
+             "english":"dining room",
+             "spanishaudio":"comedor-2",
+             "image":"comedor-2",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "eng_dining_room",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"escuela",
+             "english":"school",
+             "spanishaudio":"escuela-2",
+             "image":"escuela-2",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "school",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"lápiz",
+             "english":"pencil",
+             "spanishaudio":"lapiz",
+             "image":"lapiz",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "eng_pencil",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"libro",
+             "english":"book",
+             "spanishaudio":"libro-2",
+             "image":"libro-2",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "book",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"mesa",
+             "english":"table",
+             "spanishaudio":"mesa",
+             "image":"mesa",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "eng_table",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"papel",
+             "english":"paper",
+             "spanishaudio":"papel",
+             "image":"papel",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "eng_paper",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"pluma",
+             "english":"pen",
+             "spanishaudio":"pluma",
+             "image":"pluma",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "eng_pen",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"profesor, profesora",
+             "english":"teacher",
+             "spanishaudio":"profesor-2",
+             "image":"profesor-2",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "teacher",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"puerta",
+             "english":"door",
+             "spanishaudio":"puerta",
+             "image":"puerta",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "eng_door",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"reloj",
+             "english":"clock, watch",
+             "spanishaudio":"reloj-2",
+             "image":"reloj-2",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "clock_watch",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {  
+             "spanish":"sala",
+             "english":"living room",
+             "spanishaudio":"sala",
+             "image":"sala",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "living_room",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {  
+             "spanish":"silla",
+             "english":"chair",
+             "spanishaudio":"silla",
+             "image":"silla",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "eng_chair",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {  
+             "spanish":"ventana",
+             "english":"window",
+             "spanishaudio":"ventana",
+             "image":"ventana",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "eng_window",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             }
+             
+             ]
+}

@@ -1,0 +1,169 @@
+{
+    "items":[
+             {
+             "spanish": "la tienda de antigüedades",
+             "english": "antique store",
+             "french": " ",
+             "chinese": "古董店",
+             "englishaudio": "oas_eng_antique_store",
+             "spanishaudio": "oas_spa_la_tienda_de_antiguedades",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "tienda_de_antiguedades"
+             },
+             {
+             "spanish": "las artesanías",
+             "english": "arts and crafts",
+             "french": " ",
+             "chinese": "工艺美术品店",
+             "englishaudio": "oas_eng_arts_and_crafts",
+             "spanishaudio": "oas_spa_las_artesanias",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "artesanias"
+             },
+             {
+             "spanish": "la panadería, la pastelería",
+             "english": "bakery",
+             "french": " ",
+             "chinese": "面包店",
+             "englishaudio": "oas_eng_bakery",
+             "spanishaudio": "oas_spa_la_panaderia",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "panaderia"
+             },
+             {
+             "spanish": "la librería",
+             "english": "bookstore",
+             "french": " ",
+             "chinese": "书店",
+             "englishaudio": "oas_eng_bookstore",
+             "spanishaudio": "oas_spa_la_libreria",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "libreria"
+             },
+             {
+             "spanish": "la carnicería",
+             "english": "butcher",
+             "french": " ",
+             "chinese": "肉店",
+             "englishaudio": "oas_eng_butcher",
+             "spanishaudio": "oas_spa_la_carniceria",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "la_carniceria"
+             },
+             {
+             "spanish": "la pescadería",
+             "english": "fish market",
+             "french": " ",
+             "chinese": "海鲜市场",
+             "englishaudio": "oas_eng_fish_market",
+             "spanishaudio": "oas_spa_la_pescaderia",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "pescaderia"
+             },
+             {
+             "spanish": "el (gran) almacén",
+             "english": "department store",
+             "french": " ",
+             "chinese": "百货商店",
+             "englishaudio": "oas_eng_department_store",
+             "spanishaudio": "oas_spa_el_gran_almacen",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "almacenes"
+             },
+             {
+             "spanish": "la floristería",
+             "english": "florist",
+             "french": " ",
+             "chinese": "花店",
+             "englishaudio": "oas_eng_florist",
+             "spanishaudio": "oas_spa_la_floristeria",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "floristeria"
+             },
+             {
+             "spanish": "la tienda de comestibles",
+             "english": "grocery store",
+             "french": " ",
+             "chinese": "杂货店",
+             "englishaudio": "oas_eng_grocery_store",
+             "spanishaudio": "oas_spa_la_tienda_de_comestibles",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "tienda_de_comestibles"
+             },
+             {
+             "spanish": "la ferretería",
+             "english": "hardware store",
+             "french": " ",
+             "chinese": "五金店",
+             "englishaudio": "oas_eng_hardware_store",
+             "spanishaudio": "oas_spa_la_ferreteria",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "ferreteria"
+             },
+             {
+             "spanish": "la joyería",
+             "english": "jewelry store",
+             "french": " ",
+             "chinese": "珠宝店",
+             "englishaudio": "oas_eng_jewelery_store",
+             "spanishaudio": "oas_spa_la_joyeria",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "joyeria"
+             },
+             {
+             "spanish": "el quiosco",
+             "english": "newsstand, kiosk",
+             "french": " ",
+             "chinese": "报刊亭，信息亭",
+             "englishaudio": "oas_eng_newsstand",
+             "spanishaudio": "oas_spa_el_quiosco",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "quiosco"
+             },
+             {
+             "spanish": "el mercado al aire libre",
+             "english": "open-air market",
+             "french": " ",
+             "chinese": "露天集市",
+             "englishaudio": "oas_eng_open_air_market",
+             "spanishaudio": "oas_spa_el_mercado_al_aire_libre",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "mercado_al_aire_libre"
+             },
+             {
+             "spanish": "la zapatería",
+             "english": "shoe store",
+             "french": " ",
+             "chinese": "鞋店",
+             "englishaudio": "oas_eng_shoestore",
+             "spanishaudio": "oas_spa_la_zapateria",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "zapateria"
+             },
+             {
+             "spanish": "el supermercado",
+             "english": "supermarket",
+             "french": " ",
+             "chinese": "超级市场",
+             "englishaudio": "oas_eng_supermarket",
+             "spanishaudio": "oas_spa_el_supermercado",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "supermercado"
+             }
+             ]
+}

@@ -1,0 +1,158 @@
+{
+    "items":[
+             {
+             "spanish": "la botella",
+             "english": "bottle",
+             "french": " ",
+             "chinese": "瓶子",
+             "englishaudio": "oas_eng_bottle",
+             "spanishaudio": "oas_spa_la_botella",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "botella"
+             },
+             {
+             "spanish": "la jarra",
+             "english": "pitcher",
+             "french": " ",
+             "chinese": "广口壶；大水罐",
+             "englishaudio": "oas_eng_pitcher",
+             "spanishaudio": "oas_spa_la_jarra",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "jarra"
+             },
+             {
+             "spanish": "el tazón, el cuenco",
+             "english": "bowl",
+             "french": " ",
+             "chinese": "碗",
+             "englishaudio": "oas_eng_bowl",
+             "spanishaudio": "oas_spa_el_tazon",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "cuenco"
+             },
+             {
+             "spanish": "el plato",
+             "english": "plate",
+             "french": " ",
+             "chinese": "盘子",
+             "englishaudio": "oas_eng_plate",
+             "spanishaudio": "oas_spa_el_plato",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "plato"
+             },
+             {
+             "spanish": "la vela",
+             "english": "candle",
+             "french": " ",
+             "chinese": "蜡烛",
+             "englishaudio": "oas_eng_candle",
+             "spanishaudio": "oas_spa_la_vela",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "vela"
+             },
+             {
+             "spanish": "el fósforo, la cerilla (Esp.)",
+             "english": "match",
+             "french": " ",
+             "chinese": "火柴",
+             "englishaudio": "oas_eng_match",
+             "spanishaudio": "oas_spa_el_fosforo",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "fosforo"
+             },
+             {
+             "spanish": "las flores",
+             "english": "flowers",
+             "french": " ",
+             "chinese": "花",
+             "englishaudio": "oas_eng_flowers",
+             "spanishaudio": "oas_spa_las_flores",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "oasis_flores"
+             },
+             {
+             "spanish": "el vaso",
+             "english": "glass",
+             "french": " ",
+             "chinese": "玻璃杯",
+             "englishaudio": "oas_eng_glass",
+             "spanishaudio": "oas_spa_el_vaso",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "vaso"
+             },
+             {
+             "spanish": "la taza",
+             "english": "cup",
+             "french": " ",
+             "chinese": "茶杯（通常带把手）",
+             "englishaudio": "oas_eng_cup",
+             "spanishaudio": "oas_spa_la_taza",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "taza"
+             },
+             {
+             "spanish": "el cuchillo",
+             "english": "knife",
+             "french": " ",
+             "chinese": "刀",
+             "englishaudio": "oas_eng_knife",
+             "spanishaudio": "oas_spa_el_cuchillo",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "cuchillo"
+             },
+             {
+             "spanish": "el tenedor",
+             "english": "fork",
+             "french": " ",
+             "chinese": "叉子",
+             "englishaudio": "oas_eng_fork",
+             "spanishaudio": "oas_spa_el_tenedor",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "tenedor"
+             },
+             {
+             "spanish": "la cuchara",
+             "english": "spoon",
+             "french": " ",
+             "chinese": "勺",
+             "englishaudio": "oas_eng_spoon",
+             "spanishaudio": "oas_spa_la_cuchara",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "cuchara"
+             },
+             {
+             "spanish": "la servilleta",
+             "english": "napkin",
+             "french": " ",
+             "chinese": "餐巾",
+             "englishaudio": "oas_eng_napkin",
+             "spanishaudio": "oas_spa_la_servilleta",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "la_servilleta"
+             },
+             {
+             "spanish": "el mantel",
+             "english": "tablecloth",
+             "french": " ",
+             "chinese": "桌布",
+             "englishaudio": "oas_eng_tablecloth",
+             "spanishaudio": "oas_spa_el_mantel",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "mantel"
+             }
+             ]
+}

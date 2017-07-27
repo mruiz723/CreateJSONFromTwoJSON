@@ -1,0 +1,257 @@
+{
+    "items":[
+             {
+             "spanish": "¡Tengo hambre/sed!",
+             "english": "I’m hungry/thirsty!",
+             "french": " ",
+             "chinese": "我饿了/渴了！",
+             "englishaudio": "oas_eng_im_hungry_im_thirsty",
+             "spanishaudio": "oas_spa_tengo_hambre_tengo_sed",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "hambre"
+             },
+             {
+             "spanish": "Tengo una mesa reservada para las ocho.",
+             "english": "I have a reservation for 8:00.",
+             "french": " ",
+             "chinese": "我预订了8:00的餐位。",
+             "englishaudio": "oas_eng_i_have_a_reservation_for_eight_oclock",
+             "spanishaudio": "oas_spa_tengo_una_mesa_reservada",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "oas_reserva"
+             },
+             {
+             "spanish": "Me gustaría una mesa...",
+             "english": "I would like a table...",
+             "french": " ",
+             "chinese": "我要一个能坐_____个人的桌子",
+             "englishaudio": "oas_eng_i_would_like_a_table",
+             "spanishaudio": "oas_spa_me_gustaria_una_mesa",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "mesa_para_cuatro"
+             },
+             {
+             "spanish": "cerca de la ventana",
+             "english": "near the window",
+             "french": " ",
+             "chinese": "靠近窗口",
+             "englishaudio": "oas_eng_near_the_window",
+             "spanishaudio": "oas_spa_cerca_de_la_ventana",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "mesa_ventana"
+             },
+             {
+             "spanish": "de (no) fumadores",
+             "english": "in the (no) smoking section",
+             "french": " ",
+             "chinese": "在（无）吸烟区",
+             "englishaudio": "oas_eng_in_the_no_smoking_section",
+             "spanishaudio": "oas_spa_de_no_fumadores",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "no_fumadores"
+             },
+             {
+             "spanish": "La carta, por favor.",
+             "english": "The menu, please.",
+             "french": " ",
+             "chinese": "请看菜单",
+             "englishaudio": "oas_eng_the_menu_please",
+             "spanishaudio": "oas_spa_la_carta_por_favor",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "menu"
+             },
+             {
+             "spanish": "¿Tiene Ud. una carta en inglés?",
+             "english": "Do you have a menu in English?",
+             "french": " ",
+             "chinese": "你有英文菜单吗？",
+             "englishaudio": "oas_eng_do_you_have_a_menu_in_english",
+             "spanishaudio": "oas_spa_tiene_usted_una_carta_en_ingles",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "menu_ingles"
+             },
+             {
+             "spanish": "Soy vegetariano/a.",
+             "english": "I am a vegetarian.",
+             "french": " ",
+             "chinese": "我是一个素食者",
+             "englishaudio": "oas_eng_i_am_a_vegetarian",
+             "spanishaudio": "oas_spa_soy_vegetariana",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "vegetariano"
+             },
+             {
+             "spanish": "¿Qué recomienda Ud.?",
+             "english": "What do you recommend?",
+             "french": " ",
+             "chinese": "你有什么推荐？",
+             "englishaudio": "oas_eng_what_do_you_recommend",
+             "spanishaudio": "oas_spa_que_recomienda_usted",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "recomendacion"
+             },
+             {
+             "spanish": "el menú del día",
+             "english": "daily special",
+             "french": " ",
+             "chinese": "每日特色菜",
+             "englishaudio": "oas_eng_daily_special",
+             "spanishaudio": "oas_spa_el_menu_del_dia",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "menu_del_dia"
+             },
+             {
+             "spanish": "un plato típico",
+             "english": "regional specialty",
+             "french": " ",
+             "chinese": "当地特色菜",
+             "englishaudio": "oas_eng_regional_specialty",
+             "spanishaudio": "oas_spa_un_plato_tipico",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "oas_plato_tipico"
+             },
+             {
+             "spanish": "la especialidad de la casa",
+             "english": "specialty of the house",
+             "french": " ",
+             "chinese": "本楼特色菜",
+             "englishaudio": "oas_eng_specialty_of_the_house",
+             "spanishaudio": "oas_spa_la_especialidad_de_la_casa",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "especialidad"
+             },
+             {
+             "spanish": "¡Tengo prisa!",
+             "english": "I’m in a hurry!",
+             "french": " ",
+             "chinese": "我赶时间！",
+             "englishaudio": "oas_eng_im_in_a_hurry",
+             "spanishaudio": "oas_spa_tengo_prisa",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "prisa"
+             },
+             {
+             "spanish": "¡Qué rico! Me gusta mucho la comida!",
+             "english": "Delicious! I love the food!",
+             "french": " ",
+             "chinese": "好吃！我爱吃这里的食物！",
+             "englishaudio": "oas_eng_delicious_i_love_the_food",
+             "spanishaudio": "oas_spa_que_rico_me_gusta_mucho_la_comida",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "delicioso"
+             },
+             {
+             "spanish": "Quisiera pedir otra cosa.",
+             "english": "I would like to order something else.",
+             "french": " ",
+             "chinese": "我想点些别的东西",
+             "englishaudio": "oas_eng_i_would_like_to_order_something_else",
+             "spanishaudio": "oas_spa_quisiera_pedir_otra_cosa",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "ordenar"
+             },
+             {
+             "spanish": "La cuenta, por favor.",
+             "english": "The check, please.",
+             "french": " ",
+             "chinese": "我要买单",
+             "englishaudio": "oas_eng_the_check_please",
+             "spanishaudio": "oas_spa_la_cuenta_por_favor",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "cuenta"
+             },
+             {
+             "spanish": "el restaurante",
+             "english": "restaurant",
+             "french": " ",
+             "chinese": "餐厅",
+             "englishaudio": "oas_eng_restaurant",
+             "spanishaudio": "oas_spa_el_restaurante",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "restaurante"
+             },
+             {
+             "spanish": "el bar",
+             "english": "bar",
+             "french": " ",
+             "chinese": "酒吧",
+             "englishaudio": "oas_eng_bar",
+             "spanishaudio": "oas_spa_el_bar",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "bar"
+             },
+             {
+             "spanish": "el café",
+             "english": "café",
+             "french": " ",
+             "chinese": "小餐馆（美国）；咖啡店（欧洲）",
+             "englishaudio": "oas_eng_cafe",
+             "spanishaudio": "oas_spa_el_cafe",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "oas_cafe"
+             },
+             {
+             "spanish": "la propina",
+             "english": "tip",
+             "french": " ",
+             "chinese": "小费",
+             "englishaudio": "oas_eng_tip",
+             "spanishaudio": "oas_spa_la_propina",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "propina"
+             },
+             {
+             "spanish": "servicio incluido",
+             "english": "tip included",
+             "french": " ",
+             "chinese": "小费已包括在内",
+             "englishaudio": "oas_eng_tip_included",
+             "spanishaudio": "oas_spa_servicio_incluido",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "servicio"
+             },
+             {
+             "spanish": "el/la camarero/a, el/la mesero/a",
+             "english": "waiter",
+             "french": " ",
+             "chinese": "服务员",
+             "englishaudio": "oas_eng_waiter",
+             "spanishaudio": "oas_spa_el_camarero",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "mesero"
+             },
+             {
+             "spanish": "Es la hora de comer.",
+             "english": "It’s time to eat.",
+             "french": " ",
+             "chinese": "现在是吃饭的时候了",
+             "englishaudio": "oas_eng_its_time_to_eat",
+             "spanishaudio": "oas_spa_es_la_hora_de_comer",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "hora_de_comer"
+             }
+             ]
+}

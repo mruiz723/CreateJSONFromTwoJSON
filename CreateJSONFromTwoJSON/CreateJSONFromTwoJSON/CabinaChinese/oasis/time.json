@@ -1,0 +1,235 @@
+{
+    "items":[
+             {
+             "spanish": "Es la una (de la mañana).",
+             "english": "It’s 1:00 a.m.",
+             "french": " ",
+             "chinese": "现在是凌晨一点",
+             "englishaudio": "oas_eng_its_one_am",
+             "spanishaudio": "oas_spa_es_la_una_de_la_manana",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "its_1_am"
+             },
+             {
+             "spanish": "Son las dos y media (de la tarde).",
+             "english": "It’s 2:30 p.m.",
+             "french": " ",
+             "chinese": "现在是下午两点半",
+             "englishaudio": "oas_eng_its_two_thirty_pm",
+             "spanishaudio": "oas_spa_son_las_dos_y_media_de_la_tarde",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "its_230pm"
+             },
+             {
+             "spanish": "Son las nueve y cinco (de la noche).",
+             "english": "It’s 9:05 p.m.",
+             "french": " ",
+             "chinese": "现在是晚上九点零五分",
+             "englishaudio": "oas_eng_its_nine_o_five_pm",
+             "spanishaudio": "oas_spa_son_las_nueve_y_cinco_de_la_noche",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "its_905pm"
+             },
+             {
+             "spanish": "Ahora son las tres y cuarto.",
+             "english": "Now it’s 3:15.",
+             "french": " ",
+             "chinese": "现在是三点十五分",
+             "englishaudio": "oas_eng_now_its_three_fifteen",
+             "spanishaudio": "oas_spa_ahora_son_las_tres_y_cuarto",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "now_its_315"
+             },
+             {
+             "spanish": "Son las cinco menos diez.",
+             "english": "It’s ten minutes before 5:00.",
+             "french": " ",
+             "chinese": "这是差十分钟五点。",
+             "englishaudio": "oas_eng_its_ten_minutes_before_five",
+             "spanishaudio": "oas_spa_son_las_cinco_menos_diez",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "its_10to5"
+             },
+             {
+             "spanish": "temprano",
+             "english": "early",
+             "french": " ",
+             "chinese": "早",
+             "englishaudio": "oas_eng_early",
+             "spanishaudio": "oas_spa_temprano",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "oasis_temprano"
+             },
+             {
+             "spanish": "tarde",
+             "english": "late",
+             "french": " ",
+             "chinese": "晚／迟",
+             "englishaudio": "oas_eng_late",
+             "spanishaudio": "oas_spa_tarde",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "late"
+             },
+             {
+             "spanish": "la media hora",
+             "english": "half-hour",
+             "french": " ",
+             "chinese": "半小时",
+             "englishaudio": "oas_eng_half_hour",
+             "spanishaudio": "oas_spa_la_media_hora",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "half-hour"
+             },
+             {
+             "spanish": "la hora",
+             "english": "hour",
+             "french": " ",
+             "chinese": "小时",
+             "englishaudio": "oas_eng_hour",
+             "spanishaudio": "oas_spa_la_hora",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "hour"
+             },
+             {
+             "spanish": "la medianoche",
+             "english": "midnight",
+             "french": " ",
+             "chinese": "午夜",
+             "englishaudio": "oas_eng_midnight",
+             "spanishaudio": "oas_spa_la_media_noche",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "midnight"
+             },
+             {
+             "spanish": "el minuto",
+             "english": "minute",
+             "french": " ",
+             "chinese": "分钟",
+             "englishaudio": "oas_eng_minute",
+             "spanishaudio": "oas_spa_el_minuto",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "minute"
+             },
+             {
+             "spanish": "el mediodía",
+             "english": "noon",
+             "french": " ",
+             "chinese": "中午",
+             "englishaudio": "oas_eng_noon",
+             "spanishaudio": "oas_spa_el_medio_dia",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "midnight"
+             },
+             {
+             "spanish": "ahora",
+             "english": "now",
+             "french": " ",
+             "chinese": "现在",
+             "englishaudio": "oas_eng_now",
+             "spanishaudio": "oas_spa_ahora",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "ahora"
+             },
+             {
+             "spanish": "nunca",
+             "english": "never",
+             "french": " ",
+             "chinese": "决不",
+             "englishaudio": "oas_eng_never",
+             "spanishaudio": "oas_spa_nunca",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "nunca"
+             },
+             {
+             "spanish": "a tiempo",
+             "english": "on time",
+             "french": " ",
+             "chinese": "准时",
+             "englishaudio": "oas_eng_on_time",
+             "spanishaudio": "oas_spa_a_tiempo",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "on_time"
+             },
+             {
+             "spanish": "el horario",
+             "english": "schedule, timetable",
+             "french": " ",
+             "chinese": "时间表，时刻表",
+             "englishaudio": "oas_eng_schedule",
+             "spanishaudio": "oas_spa_el_horario",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "horario"
+             },
+             {
+             "spanish": "el segundo",
+             "english": "second",
+             "french": " ",
+             "chinese": "秒",
+             "englishaudio": "oas_eng_second",
+             "spanishaudio": "oas_spa_el_segundo",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "second"
+             },
+             {
+             "spanish": "a veces",
+             "english": "sometimes",
+             "french": " ",
+             "chinese": "有时",
+             "englishaudio": "oas_eng_sometimes",
+             "spanishaudio": "oas_spa_a_veces",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "sometimes"
+             },
+             {
+             "spanish": "pronto",
+             "english": "soon",
+             "french": " ",
+             "chinese": "不久",
+             "englishaudio": "oas_eng_soon",
+             "spanishaudio": "oas_spa_pronto",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "soon"
+             },
+             {
+             "spanish": "la salida del sol",
+             "english": "sunrise",
+             "french": " ",
+             "chinese": "日出",
+             "englishaudio": "oas_eng_sunrise",
+             "spanishaudio": "oas_spa_la_salida_del_sol",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "salida_del_sol"
+             },
+             {
+             "spanish": "la puesta del sol",
+             "english": "sunset",
+             "french": " ",
+             "chinese": "日落",
+             "englishaudio": "oas_eng_sunset",
+             "spanishaudio": "oas_spa_la_puesta_del_sol",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "puesta_del_sol"
+             }
+             ]
+}

@@ -1,0 +1,48 @@
+{
+    "items":[
+             {
+             "spanish": "el invierno",
+             "english": "winter",
+             "french": " ",
+             "chinese": "冬季",
+             "englishaudio": "oas_eng_winter",
+             "spanishaudio": "oas_spa_el_invierno",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "winter"
+             },
+             {
+             "spanish": "la primavera",
+             "english": "spring",
+             "french": " ",
+             "chinese": "春季",
+             "englishaudio": "oas_eng_spring",
+             "spanishaudio": "oas_spa_la_primavera",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "spring"
+             },
+             {
+             "spanish": "el verano",
+             "english": "summer",
+             "french": " ",
+             "chinese": "夏季",
+             "englishaudio": "oas_eng_summer",
+             "spanishaudio": "oas_spa_el_verano",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "summer"
+             },
+             {
+             "spanish": "el otoño",
+             "english": "fall",
+             "french": " ",
+             "chinese": "秋季",
+             "englishaudio": "oas_eng_fall",
+             "spanishaudio": "oas_spa_el_otono",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "fall"
+             }
+             ]
+}

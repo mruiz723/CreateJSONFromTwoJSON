@@ -1,0 +1,82 @@
+{
+    "items":[
+             {
+             "spanish":"¿Es usted popular?",
+             "english":"Are you popular?",
+             "spanishaudio":"es-usted-popular",
+             "image":"es-usted-popular",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "are_you_popular",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"Sí, soy popular.",
+             "english":"Yes, I’m popular.",
+             "spanishaudio":"si-soy-popular",
+             "image":"si-soy-popular",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "yes_im_popular",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"No, no soy popular.",
+             "english":"No, I’m not popular.",
+             "spanishaudio":"no-no-soy-popular",
+             "image":"no-no-soy-popular",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "no_im_not_popular",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"¿Es muy diplomático su padre?",
+             "english":"Is your father very diplomatic?",
+             "spanishaudio":"es-muy-diplomatico-su-padre",
+             "image":"es-muy-diplomatico-su-padre",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "is_your_father_very_diplomatic",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"Sí, mi padre es muy diplomático.",
+             "english":"Yes, my father is very diplomatic.",
+             "spanishaudio":"si-mi-padre-es-muy-diplomatico",
+             "image":"si-mi-padre-es-muy-diplomatico",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "yes_my_father_is_very_diplomatic",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"¿Es muy diplomática su madre?",
+             "english":"Is your mother very diplomatic?",
+             "spanishaudio":"es-muy-diplomatica-su-madre",
+             "image":"es-muy-diplomatica-su-madre",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "is_your_mother_very_diplomatic",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"Sí, mi madre es muy diplomática.",
+             "english":"Yes, my mother is very diplomatic.",
+             "spanishaudio":"si-mi-madre-es-muy-diplomatica",
+             "image":"si-mi-madre-es-muy-diplomatica",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "yes_my_mother_is_very_diplomatic",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             }
+             
+             ]
+}

@@ -1,0 +1,522 @@
+{
+    "items": [
+               {
+               "spanish_id": "com.tobreak.tobreakspanish.firststeps",
+               "english_id": "com.tobreak.tobreakenglish.firststeps",
+               "spanish":"Introducción / Muestra",
+               "english":"Introduction / Samples",
+               "french": " ",
+               "chinese": " ",
+               "useFlags": "0",
+               "lessons": [
+                           {
+                           "id": "FS-Animals",
+                           "spanish":"Animales",
+                           "english":"Animals",
+                           "french": " ",
+                           "chinese": " ",
+                           "order": 1,
+                           "words" : 18
+                           },
+                           {
+                           "id": "FS-Colors",
+                           "spanish":"Colores",
+                           "english":"Colors",
+                           "french": " ",
+                           "chinese": " ",
+                           "order": 2,
+                           "words" : 11
+                           },
+                           {
+                           "id": "activities",
+                           "spanish":"Actividades",
+                           "english":"Activities",
+                           "french": " ",
+                           "chinese": " ",
+                           "order": 3,
+                           "words" : 11
+                           },
+                           {
+                           "id": "FS-The-Family",
+                           "spanish":"Familia",
+                           "english":"Family",
+                           "french": " ",
+                           "chinese": " ",
+                           "order": 4,
+                           "words" : 24
+                           },
+                           {
+                           "id": "oasis_seasons",
+                           "spanish":"Las estaciones",
+                           "english":"Seasons",
+                           "french": " ",
+                           "chinese": " ",
+                           "order": 5,
+                           "words" : 24
+                           }
+                           ]
+               },
+               {
+               "spanish_id": "com.tobreak.tobreakspanish.basicbook",
+               "english_id": "com.tobreak.tobreakenglish.basicbook",
+               "spanish":"Principiante",
+               "english":"Beginner",
+               "french": " ",
+               "chinese": " ",
+               "useFlags": "1",
+               "bookCaptionEnglish": "Check out our Beginner eBook",
+               "promoCaptionEnglish": "Make sure to check out Breaking the Spanish Barrier Level 1",
+               "bookCaptionSpanish": "Dale una mirada a nuestro eBook Principiante",
+               "promoCaptionSpanish": "Asegúrate de darle una mirada a nuestro Nivel 1 de Breaking the English Barrier",
+               "bookCaptionFrench": "~French short caption Level 1~",
+               "promoCaptionFrench": "~French long caption Level 1~",
+               "bookCaptionChinese": "~Chinese short caption Level 1~",
+               "promoCaptionChinese": "~Chinise long caption Level 1~",
+               "promoIcon": "btsb_beginner_cover",
+               "spanishBookUrl": "http://itunes.apple.com/us/book/id546684157",
+               "englishBookUrl": "http://itunes.apple.com/us/book/id874619308",
+               "lessons": [
+                           {
+                           "id": "FS-Numbers-1-10",
+                           "spanish":"Los Números (1 - 20)",
+                           "english":"Numbers (1 - 20)",
+                           "french": " ",
+                           "chinese": " ",
+                           "order": 1,
+                           "words" : 20
+                           },
+                           {
+                           "id": "FS-Numbers-21-31",
+                           "spanish":"Los Números (21 - 31)",
+                           "english":"Numbers (21 - 31)",
+                           "french": " ",
+                           "chinese": " ",
+                           "order": 2,
+                           "words" : 11
+                           },
+                           {
+                           "id": "FS-Days-months-seasons",
+                           "spanish":"Días, meses, estaciones",
+                           "english":"Days, months, seasons",
+                           "french": " ",
+                           "chinese": " ",
+                           "order": 3,
+                           "words" : 24
+                           },
+                           {
+                           "id": "FS-Classroom-and-home",
+                           "spanish":"En clase y en casa",
+                           "english":"In class and at home",
+                           "french": " ",
+                           "chinese": " ",
+                           "order": 4,
+                           "words" : 19
+                           },
+                           {
+                           "id": "FS-Greetings",
+                           "spanish":"Saludos",
+                           "english":"Greetings",
+                           "french": " ",
+                           "chinese": " ",
+                           "order": 5,
+                           "words" : 22
+                           },
+                           {
+                           "id": "FS-Weather",
+                           "spanish":"El clima",
+                           "english":"Weather",
+                           "french": " ",
+                           "chinese": " ",
+                           "order": 6,
+                           "words" : 7
+                           },
+                           {
+                           "id": "FS-Telling-time",
+                           "spanish":"Diciendo la hora",
+                           "english":"Telling time",
+                           "french": " ",
+                           "chinese": " ",
+                           "order": 7,
+                           "words" : 9
+                           },
+                           {
+                           "id": "FS-Describing-yourself-and-others",
+                           "spanish":"Describiéndote a ti mismo",
+                           "english":"Describing yourself",
+                           "french": " ",
+                           "chinese": " ",
+                           "order": 8,
+                           "words" : 7
+                           },
+                           {
+                           "id": "lesson1",
+                           "spanish":"Lección 1",
+                           "english":"Lesson 1",
+                           "french": " ",
+                           "chinese": " ",
+                           "order": 9,
+                           "words" : 52
+                           },
+                           {
+                           "id": "lesson2",
+                           "spanish":"Lección 2",
+                           "english":"Lesson 2",
+                           "french": " ",
+                           "chinese": " ",
+                           "order": 10,
+                           "words" : 52
+                           },
+                           {
+                           "id": "lesson3",
+                           "spanish":"Lección 3",
+                           "english":"Lesson 3",
+                           "french": " ",
+                           "chinese": " ",
+                           "order": 11,
+                           "words" : 48
+                           },
+                           {
+                           "id": "lesson4",
+                           "spanish":"Lección 4",
+                           "english":"Lesson 4",
+                           "french": " ",
+                           "chinese": " ",
+                           "order": 12,
+                           "words" : 53
+                           },
+                           {
+                           "id": "lesson5",
+                           "spanish":"Lección 5",
+                           "english":"Lesson 5",
+                           "french": " ",
+                           "chinese": " ",
+                           "order": 13,
+                           "words" : 54
+                           },
+                           {
+                           "id": "lesson6",
+                           "spanish":"Lección 6",
+                           "english":"Lesson 6",
+                           "french": " ",
+                           "chinese": " ",
+                           "order": 14,
+                           "words" : 58
+                           },
+                           {
+                           "id": "lesson7",
+                           "spanish":"Lección 7",
+                           "english":"Lesson 7",
+                           "french": " ",
+                           "chinese": " ",
+                           "order": 15,
+                           "words" : 58
+                           },
+                           {
+                           "id": "lesson8",
+                           "spanish":"Lección 8",
+                           "english":"Lesson 8",
+                           "french": " ",
+                           "chinese": " ",
+                           "order": 16,
+                           "words" : 36
+                           },
+                           {
+                           "id": "lesson9",
+                           "spanish":"Lección 9",
+                           "english":"Lesson 9",
+                           "french": " ",
+                           "chinese": " ",
+                           "order": 17,
+                           "words" : 40
+                           },
+                           {
+                           "id": "lesson10",
+                           "spanish":"Lección 10",
+                           "english":"Lesson 10",
+                           "french": " ",
+                           "chinese": " ",
+                           "order": 18,
+                           "words" : 39
+                           },
+                           {
+                           "id": "lesson11",
+                           "spanish":"Lección 11",
+                           "english":"Lesson 11",
+                           "french": " ",
+                           "chinese": " ",
+                           "order": 19,
+                           "words" : 34
+                           },
+                           {
+                           "id": "lesson12",
+                           "spanish":"Lección 12",
+                           "english":"Lesson 12",
+                           "french": " ",
+                           "chinese": " ",
+                           "order": 20,
+                           "words" : 31
+                           }
+                           ]
+               },
+               {
+               "spanish_id": "com.tobreak.tobreakspanish.intermediatebook",
+               "english_id": "com.tobreak.tobreakenglish.intermediatebook",
+               "spanish":"Intermedio",
+               "english":"Intermediate",
+               "french": " ",
+               "chinese": " ",
+               "useFlags": "1",
+               "bookCaptionEnglish": "Check out our Intermediate eBook",
+               "promoCaptionEnglish": "Make sure to check out Breaking the Spanish Barrier Level 2",
+               "bookCaptionSpanish": "",
+               "promoCaptionSpanish": "",
+               "bookCaptionFrench": "~French short caption Level 2~",
+               "promoCaptionFrench": "~French long caption Level 2~",
+               "bookCaptionChinese": "~Chinese short caption Level 2~",
+               "promoCaptionChinese": "~Chinise long caption Level 2~",
+               "promoIcon": "btsb_intermediate_cover",
+               "spanishBookUrl": "http://itunes.apple.com/us/book/id674010322",
+               "englishBookUrl": "http://itunes.apple.com/us/book/id874619308",
+               "lessons": [
+                           {
+                           "id": "lesson13",
+                           "spanish":"Lección 1",
+                           "english":"Lesson 1",
+                           "french": " ",
+                           "chinese": " ",
+                           "order": 1,
+                           "words" : 46
+                           },
+                           {
+                           "id": "lesson14",
+                           "spanish":"Lección 2",
+                           "english":"Lesson 2",
+                           "french": " ",
+                           "chinese": " ",
+                           "order": 2,
+                           "words" : 36
+                           },
+                           {
+                           "id": "lesson15",
+                           "spanish":"Lección 3",
+                           "english":"Lesson 3",
+                           "french": " ",
+                           "chinese": " ",
+                           "order": 3,
+                           "words" : 34
+                           },
+                           {
+                           "id": "lesson16",
+                           "spanish":"Lección 4",
+                           "english":"Lesson 4",
+                           "french": " ",
+                           "chinese": " ",
+                           "order": 4,
+                           "words" : 52
+                           },
+                           {
+                           "id": "lesson17",
+                           "spanish":"Lección 5",
+                           "english":"Lesson 5",
+                           "french": " ",
+                           "chinese": " ",
+                           "order": 5,
+                           "words" : 43
+                           },
+                           {
+                           "id": "lesson18",
+                           "spanish":"Lección 6",
+                           "english":"Lesson 6",
+                           "french": " ",
+                           "chinese": " ",
+                           "order": 6,
+                           "words" : 36
+                           },
+                           {
+                           "id": "lesson19",
+                           "spanish":"Lección 7",
+                           "english":"Lesson 7",
+                           "french": " ",
+                           "chinese": " ",
+                           "order": 7,
+                           "words" : 48
+                           },
+                           {
+                           "id": "lesson20",
+                           "spanish":"Lección 8",
+                           "english":"Lesson 8",
+                           "french": " ",
+                           "chinese": " ",
+                           "order": 8,
+                           "words" : 38
+                           },
+                           {
+                           "id": "lesson21",
+                           "spanish":"Lección 9",
+                           "english":"Lesson 9",
+                           "french": " ",
+                           "chinese": " ",
+                           "order": 9,
+                           "words" : 47
+                           },
+                           {
+                           "id": "lesson22",
+                           "spanish":"Lección 10",
+                           "english":"Lesson 10",
+                           "french": " ",
+                           "chinese": " ",
+                           "order": 10,
+                           "words" : 43
+                           },
+                           {
+                           "id": "lesson23",
+                           "spanish":"Lección 11",
+                           "english":"Lesson 11",
+                           "french": " ",
+                           "chinese": " ",
+                           "order": 11,
+                           "words" : 49
+                           },
+                           {
+                           "id": "lesson24",
+                           "spanish":"Lección 12",
+                           "english":"Lesson 12",
+                           "french": " ",
+                           "chinese": " ",
+                           "order": 12,
+                           "words" : 52
+                           }
+                           ]
+               },
+               {
+               "spanish_id": "com.tobreak.tobreakspanish.advancedbook",
+               "english_id": "com.tobreak.tobreakenglish.advancedbook",
+               "spanish":"Avanzado",
+               "english":"Advanced",
+               "french": " ",
+               "chinese": " ",
+               "useFlags": "1",
+               "bookCaptionEnglish": "Check out our Advanced eBook",
+               "promoCaptionEnglish": "Make sure to check out Breaking the Spanish Barrier Level 3",
+               "bookCaptionSpanish": "",
+               "promoCaptionSpanish": "",
+               "bookCaptionFrench": "~French short caption Level 3~",
+               "promoCaptionFrench": "~French long caption Level 3~",
+               "bookCaptionChinese": "~Chinese short caption Level 3~",
+               "promoCaptionChinese": "~Chinise long caption Level 3~",
+               "promoIcon": "btsb_advanced_cover",
+               "spanishBookUrl": "http://itunes.apple.com/us/book/id546343304",
+               "englishBookUrl": "http://itunes.apple.com/us/book/id874619308",
+               "lessons": [
+                           {
+                           "id": "lesson25",
+                           "spanish":"Lección 1",
+                           "english":"Lesson 1",
+                           "french": " ",
+                           "chinese": " ",
+                           "order": 1,
+                           "words" : 40
+                           },
+                           {
+                           "id": "lesson26",
+                           "spanish":"Lección 2",
+                           "english":"Lesson 2",
+                           "french": " ",
+                           "chinese": " ",
+                           "order": 2,
+                           "words" : 43
+                           },
+                           {
+                           "id": "lesson27",
+                           "spanish":"Lección 3",
+                           "english":"Lesson 3",
+                           "french": " ",
+                           "chinese": " ",
+                           "order": 3,
+                           "words" : 39
+                           },
+                           {
+                           "id": "lesson28",
+                           "spanish":"Lección 4",
+                           "english":"Lesson 4",
+                           "french": " ",
+                           "chinese": " ",
+                           "order": 4,
+                           "words" : 43
+                           },
+                           {
+                           "id": "lesson29",
+                           "spanish":"Lección 5",
+                           "english":"Lesson 5",
+                           "french": " ",
+                           "chinese": " ",
+                           "order": 5,
+                           "words" : 38
+                           },
+                           {
+                           "id": "lesson30",
+                           "spanish":"Lección 6",
+                           "english":"Lesson 6",
+                           "french": " ",
+                           "chinese": " ",
+                           "order": 6,
+                           "words" : 49
+                           },
+                           {
+                           "id": "lesson31",
+                           "spanish":"Lección 7",
+                           "english":"Lesson 7",
+                           "french": " ",
+                           "chinese": " ",
+                           "order": 7,
+                           "words" : 44
+                           },
+                           {
+                           "id": "lesson32",
+                           "spanish":"Lección 8",
+                           "english":"Lesson 8",
+                           "french": " ",
+                           "chinese": " ",
+                           "order": 8,
+                           "words" : 46
+                           },
+                           {
+                           "id": "lesson33",
+                           "spanish":"Lección 9",
+                           "english":"Lesson 9",
+                           "french": " ",
+                           "chinese": " ",
+                           "order": 9,
+                           "words" : 42
+                           },
+                           {
+                           "id": "lesson34",
+                           "spanish":"Lección 10",
+                           "english":"Lesson 10",
+                           "french": " ",
+                           "chinese": " ",
+                           "order": 10,
+                           "words" : 46
+                           },
+                           {
+                           "id": "lesson35",
+                           "spanish":"Lección 11",
+                           "english":"Lesson 11",
+                           "french": " ",
+                           "chinese": " ",
+                           "order": 11,
+                           "words" : 41
+                           },
+                           {
+                           "id": "lesson36",
+                           "spanish":"Lección 12",
+                           "english":"Lesson 12",
+                           "french": " ",
+                           "chinese": " ",
+                           "order": 12,
+                           "words" : 37
+                           }
+                           ]
+               }
+               ]
+}

@@ -1,0 +1,103 @@
+{
+    "items":[
+             {
+             "spanish": "¿Qué tiempo hace hoy?",
+             "english": "How’s the weather?",
+             "french": " ",
+             "chinese": "天气怎么样？",
+             "englishaudio": "oas_eng_hows_the_weather",
+             "spanishaudio": "oas_spa_que_tiempo_hace_hoy",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "que-tiempo-hace-hoy"
+             },
+             {
+             "spanish": "Hace calor hoy.",
+             "english": "It’s hot today.",
+             "french": " ",
+             "chinese": "今天很热",
+             "englishaudio": "oas_eng_its_hot",
+             "spanishaudio": "oas_spa_hace_calor",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "hace-calor"
+             },
+             {
+             "spanish": "Hace frío.",
+             "english": "It’s cold.",
+             "french": " ",
+             "chinese": "好冷",
+             "englishaudio": "oas_eng_its_cold",
+             "spanishaudio": "oas_spa_hace_frio",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "hace-frio"
+             },
+             {
+             "spanish": "Hace sol.",
+             "english": "It’s sunny.",
+             "french": " ",
+             "chinese": "天气晴朗",
+             "englishaudio": "oas_eng_its_sunny",
+             "spanishaudio": "oas_spa_hace_sol",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "hace-sol"
+             },
+             {
+             "spanish": "Está nublado.",
+             "english": "It’s cloudy.",
+             "french": " ",
+             "chinese": "今天多云",
+             "englishaudio": "oas_eng_its_cloudy",
+             "spanishaudio": "oas_spa_esta_nublado",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "esta_nublado"
+             },
+             {
+             "spanish": "Hace viento/fresco.",
+             "english": "It’s windy/cool.",
+             "french": " ",
+             "chinese": "今天有风/天气温和",
+             "englishaudio": "oas_eng_its_windy_its_cool",
+             "spanishaudio": "oas_spa_hace_viento_hace_fresco",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "hace-viento"
+             },
+             {
+             "spanish": "Hace buen tiempo.",
+             "english": "It’s beautiful.",
+             "french": " ",
+             "chinese": "（天气）真美好",
+             "englishaudio": "oas_eng_its_beautiful",
+             "spanishaudio": "oas_spa_hace_buen_tiempo",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "hace_buen_tiempo"
+             },
+             {
+             "spanish": "Llueve (Está lloviendo).",
+             "english": "It’s raining.",
+             "french": " ",
+             "chinese": "下雨了",
+             "englishaudio": "oas_eng_its_raining",
+             "spanishaudio": "oas_spa_llueve",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "llueve"
+             },
+             {
+             "spanish": "Nieva (Está nevando).",
+             "english": "It’s snowing.",
+             "french": " ",
+             "chinese": "下雪了",
+             "englishaudio": "oas_eng_its_snowing",
+             "spanishaudio": "oas_spa_nieva",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "nieva"
+             }
+             ]
+}

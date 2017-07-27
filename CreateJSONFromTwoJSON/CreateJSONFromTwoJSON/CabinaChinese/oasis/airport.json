@@ -1,0 +1,180 @@
+{
+    "items":[
+             {
+             "spanish": "¿Cuándo sale el avión?",
+             "english": "When does the plane leave?",
+             "french": " ",
+             "chinese": "飞机什么时候起飞？",
+             "englishaudio": "oas_eng_when_does_the_plane_leave",
+             "spanishaudio": "oas_spa_cuando_sale_el_avion",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "cuando_sale_el_avion"
+             },
+             {
+             "spanish": "¿Llega el vuelo temprano, a tiempo o tarde?",
+             "english": "Is the flight arriving early, on time, or late?",
+             "french": " ",
+             "chinese": "飞机将要早到，准点，还是晚点？",
+             "englishaudio": "oas_eng_is_the_flight_arriving",
+             "spanishaudio": "oas_spa_llega_el_vuelo",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "llega_el_vuelo_temprano"
+             },
+             {
+             "spanish": "al aeropuerto",
+             "english": "at the airport",
+             "french": " ",
+             "chinese": "飞机场",
+             "englishaudio": "oas_eng_at_the_airport",
+             "spanishaudio": "oas_spa_al_aeropuerto",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "aeropuerto"
+             },
+             {
+             "spanish": "la recogida de equipaje",
+             "english": "baggage claim",
+             "french": " ",
+             "chinese": "行李认领处",
+             "englishaudio": "oas_eng_baggage_claim",
+             "spanishaudio": "oas_spa_la_recogida_de_equipaje",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "recogida_equipaje"
+             },
+             {
+             "spanish": "la puerta de embarque",
+             "english": "boarding gate",
+             "french": " ",
+             "chinese": "登机口",
+             "englishaudio": "oas_eng_boarding_gate",
+             "spanishaudio": "oas_spa_la_puerta_de_embarque",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "puerta_de_embarque"
+             },
+             {
+             "spanish": "el barco",
+             "english": "boat",
+             "french": " ",
+             "chinese": "船",
+             "englishaudio": "oas_eng_boat",
+             "spanishaudio": "oas_spa_el_barco",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "barco"
+             },
+             {
+             "spanish": "el autobús, el bus",
+             "english": "bus",
+             "french": " ",
+             "chinese": "公共汽车",
+             "englishaudio": "oas_eng_bus",
+             "spanishaudio": "oas_spa_el_autobus",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "oasis_bus"
+             },
+             {
+             "spanish": "la aduana",
+             "english": "customs",
+             "french": " ",
+             "chinese": "海关",
+             "englishaudio": "oas_eng_customs",
+             "spanishaudio": "oas_spa_la_aduana",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "aduana"
+             },
+             {
+             "spanish": "el crucero",
+             "english": "cruise ship",
+             "french": " ",
+             "chinese": "游轮",
+             "englishaudio": "oas_eng_cruise_ship",
+             "spanishaudio": "oas_spa_el_crucero",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "barco_crucero"
+             },
+             {
+             "spanish": "el muelle, el embarcadero",
+             "english": "dock",
+             "french": " ",
+             "chinese": "码头",
+             "englishaudio": "oas_eng_dock",
+             "spanishaudio": "oas_spa_el_muelle",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "muelle"
+             },
+             {
+             "spanish": "el horario",
+             "english": "schedule, timetable",
+             "french": " ",
+             "chinese": "时刻表",
+             "englishaudio": "oas_eng_schedule",
+             "spanishaudio": "oas_spa_el_horario",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "horario"
+             },
+             {
+             "spanish": "la estación (de)",
+             "english": "station",
+             "french": " ",
+             "chinese": "站",
+             "englishaudio": "oas_eng_station",
+             "spanishaudio": "oas_spa_la_estacion",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "estacion"
+             },
+             {
+             "spanish": "el billete (de ida)",
+             "english": "ticket (one-way)",
+             "french": " ",
+             "chinese": "票（单程）",
+             "englishaudio": "oas_eng_one_way_ticket",
+             "spanishaudio": "oas_spa_el_billete_de_ida",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "billete_ida"
+             },
+             {
+             "spanish": "el billete (de ida y vuelta)",
+             "english": "ticket (round-trip)",
+             "french": " ",
+             "chinese": "票（往返）",
+             "englishaudio": "oas_eng_round_trip_ticket",
+             "spanishaudio": "oas_spa_el_billete_de_ida_y_vuelta",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "billete_ida_y_vuelta"
+             },
+             {
+             "spanish": "el tren",
+             "english": "train",
+             "french": " ",
+             "chinese": "火车",
+             "englishaudio": "train",
+             "spanishaudio": "oas_spa_el_tren",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "tren"
+             },
+             {
+             "spanish": "el viaje",
+             "english": "trip",
+             "french": " ",
+             "chinese": "旅途",
+             "englishaudio": "oas_eng_trip",
+             "spanishaudio": "oas_spa_el_viaje",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "de_viaje"
+             }
+             ]
+}

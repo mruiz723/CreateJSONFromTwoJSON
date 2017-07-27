@@ -1,0 +1,125 @@
+{
+    "items":[
+             {
+             "spanish": "el ciclismo",
+             "english": "bicycling",
+             "french": " ",
+             "chinese": "骑自行车",
+             "englishaudio": "oas_eng_bicycling",
+             "spanishaudio": "oas_spa_el_ciclismo",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "ciclismo"
+             },
+             {
+             "spanish": "el motociclismo",
+             "english": "motorcycling",
+             "french": " ",
+             "chinese": "骑摩托车",
+             "englishaudio": "oas_eng_motorcycling",
+             "spanishaudio": "oas_spa_el_motorciclismo",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "motorciclismo"
+             },
+             {
+             "spanish": "el baile",
+             "english": "dancing",
+             "french": " ",
+             "chinese": "跳舞",
+             "englishaudio": "oas_eng_dancing",
+             "spanishaudio": "oas_spa_el_baile",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "baile"
+             },
+             {
+             "spanish": "el senderismo",
+             "english": "hiking",
+             "french": " ",
+             "chinese": "登山",
+             "englishaudio": "oas_eng_hiking",
+             "spanishaudio": "oas_spa_el_senderismo",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "senderismo"
+             },
+             {
+             "spanish": "el cámping",
+             "english": "camping",
+             "french": " ",
+             "chinese": "野营",
+             "englishaudio": "oas_eng_camping",
+             "spanishaudio": "oas_spa_el_camping",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "camping"
+             },
+             {
+             "spanish": "la navegación a vela",
+             "english": "sailing",
+             "french": " ",
+             "chinese": "帆船",
+             "englishaudio": "oas_eng_sailing",
+             "spanishaudio": "oas_spa_la_navegacion_a_vela",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "la_navegacion_a_vela"
+             },
+             {
+             "spanish": "el paseo en barco",
+             "english": "boating",
+             "french": " ",
+             "chinese": "划船",
+             "englishaudio": "oas_eng_boating",
+             "spanishaudio": "oas_spa_el_paseo_en_barco",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "el_paseo_en_barco"
+             },
+             {
+             "spanish": "el patinaje",
+             "english": "skating",
+             "french": " ",
+             "chinese": "滑冰",
+             "englishaudio": "oas_eng_skating",
+             "spanishaudio": "oas_spa_el_patinaje",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "skating"
+             },
+             {
+             "spanish": "el esquí",
+             "english": "skiing",
+             "french": " ",
+             "chinese": "滑雪",
+             "englishaudio": "oas_eng_skiing",
+             "spanishaudio": "oas_spa_el_esqui",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "skiing"
+             },
+             {
+             "spanish": "la natación",
+             "english": "swimming",
+             "french": " ",
+             "chinese": "游泳",
+             "englishaudio": "oas_eng_swimming",
+             "spanishaudio": "oas_spa_la_natacion",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "natacion"
+             },
+             {
+             "spanish": "el submarinismo",
+             "english": "scuba diving",
+             "french": " ",
+             "chinese": "潜水",
+             "englishaudio": "oas_eng_scuba_diving",
+             "spanishaudio": "oas_spa_el_submarinismo",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "submarinismo"
+             }
+             ]
+}

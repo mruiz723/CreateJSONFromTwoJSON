@@ -1,0 +1,346 @@
+{
+    "items":[
+             {
+             "spanish":"abogado",
+             "english":"lawyer",
+             "spanishaudio":"abogada",
+             "image":"abogado",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "lawyer",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"aspiradora",
+             "english":"vacuum cleaner",
+             "spanishaudio":"aspiradora",
+             "image":"aspiradora",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "vacuum_cleaner",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"caries",
+             "english":"cavity",
+             "spanishaudio":"caries",
+             "image":"caries",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "cavity",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"carretera",
+             "english":"highway",
+             "spanishaudio":"carretera",
+             "image":"carretera",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "highway",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"computadora, ordenador",
+             "english":"computer",
+             "spanishaudio":"computadoraordenador",
+             "image":"computadora_ordenador",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "computer",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"congelador",
+             "english":"freezer",
+             "spanishaudio":"congelador",
+             "image":"congelador",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "eng_freezer",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"contestador automático",
+             "english":"answering machine",
+             "spanishaudio":"contestadorautomatico",
+             "image":"contestador_automatico",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "answering_machine",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"correo de voz",
+             "english":"voice mail",
+             "spanishaudio":"correodevoz",
+             "image":"correo_de_voz",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "voice_mail",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"docena",
+             "english":"dozen",
+             "spanishaudio":"docena",
+             "image":"docena",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "dozen",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"email, correo electrónico",
+             "english":"email",
+             "spanishaudio":"emailcorreoelectronico",
+             "image":"email_correo_electronico",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "email",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"fin de semana",
+             "english":"weekend",
+             "spanishaudio":"findesemana",
+             "image":"fin_de_semana",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "weekend",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"galleta",
+             "english":"cookie",
+             "spanishaudio":"galleta",
+             "image":"galleta",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "cookie",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"garaje",
+             "english":"garage",
+             "spanishaudio":"garaje",
+             "image":"garaje",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "garage",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"gastar",
+             "english":"to spend",
+             "spanishaudio":"gastar",
+             "image":"gastar",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "to_spend",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"inglés",
+             "english":"English",
+             "spanishaudio":"ingles",
+             "image":"ingles",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "english",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"ir de viaje",
+             "english":"to travel, to go on a trip",
+             "spanishaudio":"irdeviaje",
+             "image":"ir_de_viaje",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "to_travel_to_go_on_a_trip",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"lavadora",
+             "english":"washer",
+             "spanishaudio":"lavadora",
+             "image":"lavadora",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "washer",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"lavaplatos",
+             "english":"dishwasher",
+             "spanishaudio":"lavaplatos",
+             "image":"lavaplatos",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "dishwasher",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"(horno de) microondas",
+             "english":"microwave",
+             "spanishaudio":"hornodemicroondas",
+             "image":"horno_de_microondas",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "microwave",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"móvil (Sp.), teléfono celular",
+             "english":"cellphone",
+             "spanishaudio":"moviltelefono_celular",
+             "image":"movil_telefono_celular",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "cellphone",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"nevera, refrigerador",
+             "english":"refrigerator",
+             "spanishaudio":"neverarefrigerador",
+             "image":"nevera_refrigerador",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "refrigerator",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"otra vez",
+             "english":"again",
+             "spanishaudio":"otravez",
+             "image":"otra_vez",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "again",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"perrito caliente",
+             "english":"hot dog",
+             "spanishaudio":"perritocaliente",
+             "image":"perro_caliente",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "hot_dog",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"precioso",
+             "english":"beautiful, adorable",
+             "spanishaudio":"preciosa",
+             "image":"precioso",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "beautiful_adorable",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"principio, comienzo",
+             "english":"beginning",
+             "spanishaudio":"principio",
+             "image":"principio_comienzo",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "beginning",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"radio",
+             "english":"radio",
+             "spanishaudio":"radio",
+             "image":"radio",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "eng_radio",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"raqueta",
+             "english":"racquet",
+             "spanishaudio":"raqueta",
+             "image":"raqueta",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "racquet",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"secadora",
+             "english":"dryer",
+             "spanishaudio":"secadora",
+             "image":"secadora",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "dryer",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"televisión",
+             "english":"television",
+             "spanishaudio":"television",
+             "image":"television",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "eng_television",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"televisor",
+             "english":"television set",
+             "spanishaudio":"televisor",
+             "image":"televisor",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "television_set",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"terminar",
+             "english":"to finish",
+             "spanishaudio":"terminar",
+             "image":"terminar",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "to_finish",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             }
+
+             ]
+}

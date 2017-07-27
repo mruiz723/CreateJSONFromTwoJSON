@@ -1,0 +1,114 @@
+{
+    "items":[
+             {
+             "spanish": "primero",
+             "english": "first",
+             "french": " ",
+             "chinese": "第一",
+             "englishaudio": "oas_eng_first",
+             "spanishaudio": "oas_spa_primero",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "first"
+             },
+             {
+             "spanish": "segundo",
+             "english": "second",
+             "french": " ",
+             "chinese": "第二",
+             "englishaudio": "oas_eng_second",
+             "spanishaudio": "oas_spa_segundo",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "2nd"
+             },
+             {
+             "spanish": "tercero",
+             "english": "third",
+             "french": " ",
+             "chinese": "第三",
+             "englishaudio": "oas_eng_third",
+             "spanishaudio": "oas_spa_tercero",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "3rd"
+             },
+             {
+             "spanish": "cuarto",
+             "english": "fourth",
+             "french": " ",
+             "chinese": "第四",
+             "englishaudio": "oas_eng_fourth",
+             "spanishaudio": "oas_spa_cuarto",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "4th"
+             },
+             {
+             "spanish": "quinto",
+             "english": "fifth",
+             "french": " ",
+             "chinese": "第五",
+             "englishaudio": "oas_eng_fifth",
+             "spanishaudio": "oas_spa_quinto",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "5th"
+             },
+             {
+             "spanish": "sexto",
+             "english": "sixth",
+             "french": " ",
+             "chinese": "第六",
+             "englishaudio": "oas_eng_sixth",
+             "spanishaudio": "oas_spa_sexto",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "6th"
+             },
+             {
+             "spanish": "séptimo",
+             "english": "seventh",
+             "french": " ",
+             "chinese": "第七",
+             "englishaudio": "oas_eng_seventh",
+             "spanishaudio": "oas_spa_septimo",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "7th"
+             },
+             {
+             "spanish": "octavo",
+             "english": "eighth",
+             "french": " ",
+             "chinese": "第八",
+             "englishaudio": "oas_eng_eigth",
+             "spanishaudio": "oas_spa_octavo",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "8th"
+             },
+             {
+             "spanish": "noveno",
+             "english": "ninth",
+             "french": " ",
+             "chinese": "第九",
+             "englishaudio": "oas_eng_ninth",
+             "spanishaudio": "oas_spa_noveno",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "9th"
+             },
+             {
+             "spanish": "décimo",
+             "english": "tenth",
+             "french": " ",
+             "chinese": "第十",
+             "englishaudio": "oas_eng_tenth",
+             "spanishaudio": "oas_spa_decimo",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "10th"
+             }
+             ]
+}

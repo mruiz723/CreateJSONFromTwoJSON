@@ -1,0 +1,191 @@
+{
+    "items":[
+             {
+             "spanish": "¡Vamos de compras!",
+             "english": "Let’s go shopping!",
+             "french": " ",
+             "chinese": "我们去购物吧！",
+             "englishaudio": "oas_eng_lets_go_shopping",
+             "spanishaudio": "oas_spa_vamos_de_compras",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "vamos_de_compras"
+             },
+             {
+             "spanish": "¿Dónde se puede cambiar dinero?",
+             "english": "Where can one change money?",
+             "french": " ",
+             "chinese": "在哪里可以换钱？",
+             "englishaudio": "oas_eng_where_can_one_change_money",
+             "spanishaudio": "oas_spa_donde_se_puede_cambiar_dinero",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "cambiar_dinero"
+             },
+             {
+             "spanish": "¿Cuál es la tasa de cambio?",
+             "english": "What is the exchange rate?",
+             "french": " ",
+             "chinese": "汇率是多少？",
+             "englishaudio": "oas_eng_what_is_the_exchange_rate",
+             "spanishaudio": "oas_spa_cual_es_la_tasa_de_cambio",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "tasa_de_cambio"
+             },
+             {
+             "spanish": "¿Cuánto cuesta?",
+             "english": "How much does it cost?",
+             "french": " ",
+             "chinese": "这要多少钱？",
+             "englishaudio": "oas_eng_how_much_does_it_cost",
+             "spanishaudio": "oas_spa_cuesta",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "how_much_does_it_cost"
+             },
+             {
+             "spanish": "¿Es su mejor precio?",
+             "english": "Is this your best price?",
+             "french": " ",
+             "chinese": "这是你最好的价格了吗？／不能再便宜了吗？",
+             "englishaudio": "oas_eng_is_this_your_best_price",
+             "spanishaudio": "oas_spa_es_su_mejor_precio",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "is_this_your_best_price"
+             },
+             {
+             "spanish": "¿Tiene Ud. algo ____?",
+             "english": "Do you have something ____?",
+             "french": " ",
+             "chinese": "你有_____吗？",
+             "englishaudio": "oas_eng_do_you_have_something",
+             "spanishaudio": "oas_spa_tiene_usted_algo",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "do_you_have_something"
+             },
+             {
+             "spanish": "más caro",
+             "english": "more expensive",
+             "french": " ",
+             "chinese": "更贵",
+             "englishaudio": "oas_eng_more_expensive",
+             "spanishaudio": "oas_spa_mas_caro",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "mas"
+             },
+             {
+             "spanish": "menos caro",
+             "english": "less expensive",
+             "french": " ",
+             "chinese": "更便宜？",
+             "englishaudio": "oas_eng_less_expensive",
+             "spanishaudio": "oas_spa_menos_caro",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "menos_caro"
+             },
+             {
+             "spanish": "más grande",
+             "english": "bigger",
+             "french": " ",
+             "chinese": "更大",
+             "englishaudio": "oas_eng_bigger",
+             "spanishaudio": "oas_spa_mas_grande",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "larger"
+             },
+             {
+             "spanish": "más pequeño",
+             "english": "smaller",
+             "french": " ",
+             "chinese": "更小？",
+             "englishaudio": "oas_eng_smaller",
+             "spanishaudio": "oas_spa_mas_pequeno",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "smaller"
+             },
+             {
+             "spanish": "Sólo estoy mirando.",
+             "english": "I’m just looking.",
+             "french": " ",
+             "chinese": "我只是随便看看",
+             "englishaudio": "oas_eng_im_just_looking",
+             "spanishaudio": "oas_spa_solo_estoy_mirando",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "solo_estoy_mirando"
+             },
+             {
+             "spanish": "Busco un regalo.",
+             "english": "I’m looking for a present.",
+             "french": " ",
+             "chinese": "我在选一个礼物",
+             "englishaudio": "oas_eng_im_looking_for_a_present",
+             "spanishaudio": "oas_spa_busco_un_regalo",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "busco_un_regalo"
+             },
+             {
+             "spanish": "¿Puedo verlo?",
+             "english": "May I see it?",
+             "french": " ",
+             "chinese": "我可以看看吗？",
+             "englishaudio": "oas_eng_may_i_see_it",
+             "spanishaudio": "oas_spa_puedo_verlo",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "puedo_verlo"
+             },
+             {
+             "spanish": "Me gustaría comprar/devolver esto.",
+             "english": "I’d like to purchase/return this.",
+             "french": " ",
+             "chinese": "我想买／退这个",
+             "englishaudio": "oas_eng_id_like_to_purchase_this_id_like_to_return_this",
+             "spanishaudio": "oas_spa_me_gustaria_comprar_esto",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "me_gustaria_comprar"
+             },
+             {
+             "spanish": "¿Dónde está la caja?",
+             "english": "Where is the cashier?",
+             "french": " ",
+             "chinese": "收银台在哪里？",
+             "englishaudio": "oas_eng_wheres_the_cashier",
+             "spanishaudio": "oas_spa_donde_esta_la_caja",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "donde_esta_la_caja"
+             },
+             {
+             "spanish": "¿Se puede pagar con tarjeta de crédito?",
+             "english": "May I pay with a credit card?",
+             "french": " ",
+             "chinese": "我可以用信用卡支付吗？",
+             "englishaudio": "oas_eng_may_i_pay_with_a_credit_card",
+             "spanishaudio": "oas_spa_se_puede_pagar_con_tarjeta_de_credito",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "pagar_tarjeta"
+             },
+             {
+             "spanish": "¿Se puede enviar (mandar) esta carta/este paquete por correo aéreo?",
+             "english": "Can you send this letter/package by air mail?",
+             "french": " ",
+             "chinese": "您可以通过航空邮件寄这封信/包裹吗？",
+             "englishaudio": "oas_eng_could_you_send_this_letter_by_airmail",
+             "spanishaudio": "oas_spa_se_puede_enviar_esta_carta_por_correo_aereo",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "enviar"
+             }
+             ]
+}

@@ -1,0 +1,269 @@
+{
+    "items":[
+             {
+             "spanish":"lunes",
+             "english":"Monday",
+             "spanishaudio":"lunes",
+             "image":"lunes",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "oas_eng_monday",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"martes",
+             "english":"Tuesday",
+             "spanishaudio":"martes",
+             "image":"martes",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "oas_eng_tuesday",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"miércoles",
+             "english":"Wednesday",
+             "spanishaudio":"miercoles",
+             "image":"miercoles",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "oas_eng_wednesday",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"jueves",
+             "english":"Thursday",
+             "spanishaudio":"jueves",
+             "image":"jueves",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "oas_eng_thursday",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"viernes",
+             "english":"Friday",
+             "spanishaudio":"viernes",
+             "image":"viernes",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "oas_eng_friday",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"sábado",
+             "english":"Saturday",
+             "spanishaudio":"sabado",
+             "image":"sabado",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "oas_eng_saturday",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"domingo",
+             "english":"Sunday",
+             "spanishaudio":"domingo",
+             "image":"domingo",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "oas_eng_sunday",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"enero",
+             "english":"January",
+             "spanishaudio":"enero",
+             "image":"enero",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "oas_eng_january",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"febrero",
+             "english":"February",
+             "spanishaudio":"febrero",
+             "image":"febrero",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "oas_eng_february",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"marzo",
+             "english":"March",
+             "spanishaudio":"marzo",
+             "image":"marzo",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "oas_eng_march",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"abril",
+             "english":"April",
+             "spanishaudio":"abril",
+             "image":"abril",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "oas_eng_april",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"mayo",
+             "english":"May",
+             "spanishaudio":"mayo",
+             "image":"mayo",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "oas_eng_may",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"junio",
+             "english":"June",
+             "spanishaudio":"junio",
+             "image":"junio",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "oas_eng_june",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"julio",
+             "english":"July",
+             "spanishaudio":"julio",
+             "image":"julio",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "oas_eng_july",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"agosto",
+             "english":"August",
+             "spanishaudio":"agosto",
+             "image":"agosto",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "oas_eng_august",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"septiembre",
+             "english":"September",
+             "spanishaudio":"septiebre",
+             "image":"septiembre",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "oas_eng_september",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"octubre",
+             "english":"October",
+             "spanishaudio":"octubre",
+             "image":"octubre",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "oas_eng_october",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"noviembre",
+             "english":"November",
+             "spanishaudio":"noviembre",
+             "image":"noviembre",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "oas_eng_november",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"diciembre",
+             "english":"December",
+             "spanishaudio":"diciembre",
+             "image":"diciembre",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "oas_eng_december",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"¿Qué estación le gusta más?",
+             "english":"What season do you like best?",
+             "spanishaudio":"que-estacion-le-gusta-mas",
+             "image":"que-estacion-le-gusta-mas",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "what_season_do_you_like_best",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"Me gusta más la primavera.",
+             "english":"I like the spring best.",
+             "spanishaudio":"me-gusta-mas-la-primavera",
+             "image":"me-gusta-mas-la-primavera",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "i_like_the_spring_best",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {  
+             "spanish":"Me gusta más el verano.",
+             "english":"I like the summer best.",
+             "spanishaudio":"me-gusta-mas-el-verano",
+             "image":"me-gusta-mas-el-verano",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "i_like_the_summer_best",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {  
+             "spanish":"Me gusta más el otoño.",
+             "english":"I like the fall best.",
+             "spanishaudio":"me-gusta-mas-el-otono",
+             "image":"me-gusta-mas-el-otono",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "i_like_the_fall_best",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {  
+             "spanish":"Me gusta más el invierno.",
+             "english":"I like the winter best.",
+             "spanishaudio":"me-gusta-mas-el-invierno",
+             "image":"me-gusta-mas-el-invierno",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "i_like_the_winter_best",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             }
+             
+             ]
+}

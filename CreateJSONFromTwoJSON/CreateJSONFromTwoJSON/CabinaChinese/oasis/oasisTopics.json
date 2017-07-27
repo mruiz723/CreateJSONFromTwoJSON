@@ -1,0 +1,475 @@
+{
+  "items": [
+    {
+      "id": "com.tobreak.tobreakspanish.oasis.packing",
+      "topic": "Packing",
+      "iconColor": "132.0,69.0,139.0",
+      "paleColor": "152.0,79.0,160.0",
+      "darkColor": "124.0,64.0,131.0",
+      "subtopics": [
+        {
+          "id": "com.tobreak.tobreakspanish.oasis.packing.essentials",
+          "words": "essentials",
+          "icon": "essentials",
+          "names": {
+            "default": "Essentials",
+            "english": "Essentials",
+            "spanish": "Imprescindibles",
+            "french": "",
+            "chinese": ""
+          },
+        },
+        {
+          "id": "com.tobreak.tobreakspanish.oasis.packing.baggage",
+          "words": "baggage",
+          "icon": "baggage",
+          "names": {
+            "default": "Baggage",
+            "english": "Baggage",
+            "spanish": "Maletas",
+            "french": "",
+            "chinese": ""
+          }
+        },
+        {
+          "id": "com.tobreak.tobreakspanish.oasis.packing.signage",
+          "words": "signage",
+          "icon": "signage",
+          "names": {
+            "default": "Survival signage",
+            "english": "Survival signage",
+            "spanish": "Señalización de supervivencia",
+            "french": "",
+            "chinese": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.tobreak.tobreakspanish.oasis.basictravel",
+      "topic": "Basic Travel Conversation",
+      "iconColor": "80.0,208.0,176.0",
+      "paleColor": "89.0,229.0,194.0",
+      "darkColor": "75.0,188.0,160.0",
+      "subtopics": [
+        {
+          "id": "com.tobreak.tobreakspanish.oasis.basictravel.airport",
+          "words": "airport",
+          "icon": "airport",
+          "names": {
+            "default": "Airport",
+            "english": "Airport",
+            "spanish": "Aeropuerto",
+            "french": "",
+            "chinese": ""
+          },
+        },
+        {
+          "id": "com.tobreak.tobreakspanish.oasis.basictravel.road",
+          "words": "road",
+          "icon": "road",
+          "names": {
+            "default": "On the road",
+            "english": "On the road",
+            "spanish": "En el camino",
+            "french": "",
+            "chinese": ""
+          }
+        },
+        {
+          "id": "com.tobreak.tobreakspanish.oasis.basictravel.town",
+          "words": "town",
+          "icon": "town",
+          "names": {
+            "default": "Town and country",
+            "english": "Town and country",
+            "spanish": "Ciudad y pueblo",
+            "french": "",
+            "chinese": ""
+          }
+        },
+        {
+          "id": "com.tobreak.tobreakspanish.oasis.basictravel.conversation",
+          "words": "travel_conversation",
+          "icon": "travel_conversation",
+          "names": {
+            "default": "Conversation",
+            "english": "Conversation",
+            "spanish": "Conversación",
+            "french": "",
+            "chinese": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.tobreak.tobreakspanish.oasis.directions",
+      "topic": "Directions",
+      "iconColor": "95.0,141.0,206.0",
+      "paleColor": "159.0,187.0,226.0",
+      "darkColor": "66.0,98.0,144.0",
+      "subtopics": [
+        {
+          "id": "com.tobreak.tobreakspanish.oasis.directions.questions",
+          "words": "questions",
+          "icon": "questions",
+          "names": {
+            "default": "Questions",
+            "english": "Questions",
+            "spanish": "Preguntas",
+            "french": "",
+            "chinese": ""
+          },
+        },
+        {
+          "id": "com.tobreak.tobreakspanish.oasis.directions.directions",
+          "words": "directions",
+          "icon": "directions",
+          "names": {
+            "default": "Directions",
+            "english": "Directions",
+            "spanish": "Direcciones",
+            "french": "",
+            "chinese": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.tobreak.tobreakspanish.oasis.destination",
+      "topic": "Destinations",
+      "iconColor": "63.0,127.0,96.0",
+      "paleColor": "140.0,178.0,60.0",
+      "darkColor": "44.0,89.0,67.0",
+      "subtopics": [
+        {
+          "id": "com.tobreak.tobreakspanish.oasis.destination.locations",
+          "words": "locations",
+          "icon": "locations",
+          "names": {
+            "default": "Locations",
+            "english": "Locations",
+            "spanish": "Ubicaciones",
+            "french": "",
+            "chinese": ""
+          },
+        },
+        {
+          "id": "com.tobreak.tobreakspanish.oasis.destination.nature",
+          "words": "nature",
+          "icon": "nature",
+          "names": {
+            "default": "Nature",
+            "english": "Nature",
+            "spanish": "Naturaleza",
+            "french": "",
+            "chinese": ""
+          }
+        },
+        {
+          "id": "com.tobreak.tobreakspanish.oasis.destination.shopping",
+          "words": "shopping",
+          "icon": "shopping",
+          "names": {
+            "default": "Shopping",
+            "english": "Shopping",
+            "spanish": "De compras",
+            "french": "",
+            "chinese": ""
+          }
+        },
+        {
+          "id": "com.tobreak.tobreakspanish.oasis.destination.stores",
+          "words": "stores",
+          "icon": "stores",
+          "names": {
+            "default": "Stores",
+            "english": "Stores",
+            "spanish": "Las tiendas",
+            "french": "",
+            "chinese": ""
+          }
+        },
+        {
+          "id": "com.tobreak.tobreakspanish.oasis.destination.activities",
+          "words": "activities",
+          "icon": "activities",
+          "names": {
+            "default": "Activities",
+            "english": "Activities",
+            "spanish": "Actividades",
+            "french": "",
+            "chinese": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.tobreak.tobreakspanish.oasis.numbers",
+      "topic": "Time and numbers",
+      "iconColor": "255.0,185.0,51.0",
+      "paleColor": "255.0,213.0,133.0",
+      "darkColor": "178.0,129.0,36.0",
+      "subtopics": [
+        {
+          "id": "com.tobreak.tobreakspanish.oasis.numbers.time",
+          "words": "time",
+          "icon": "time",
+          "names": {
+            "default": "Time",
+            "english": "Time",
+            "spanish": "Hora",
+            "french": "",
+            "chinese": ""
+          },
+        },
+        {
+          "id": "com.tobreak.tobreakspanish.oasis.numbers.numbers",
+          "words": "oasis_numbers",
+          "icon": "oasis_numbers",
+          "names": {
+            "default": "Numbers",
+            "english": "Numbers",
+            "spanish": "Los números",
+            "french": "",
+            "chinese": ""
+          }
+        },
+        {
+          "id": "com.tobreak.tobreakspanish.oasis.numbers.ordinals",
+          "words": "ordinals",
+          "icon": "ordinals",
+          "names": {
+            "default": "Ordinal numbers",
+            "english": "Ordinal numbers",
+            "spanish": "Números ordinales",
+            "french": "",
+            "chinese": ""
+          }
+        },
+        {
+          "id": "com.tobreak.tobreakspanish.oasis.numbers.days",
+          "words": "oasis_days",
+          "icon": "oasis_days",
+          "names": {
+            "default": "Days of the week",
+            "english": "Days of the week",
+            "spanish": "Días de la semana",
+            "french": "",
+            "chinese": ""
+          }
+        },
+        {
+          "id": "com.tobreak.tobreakspanish.oasis.numbers.months",
+          "words": "months",
+          "icon": "oasis_months",
+          "names": {
+            "default": "Months",
+            "english": "Months",
+            "spanish": "Meses",
+            "french": "",
+            "chinese": ""
+          }
+        },
+        {
+          "id": "com.tobreak.tobreakspanish.oasis.numbers.seasons",
+          "words": "oasis_seasons",
+          "icon": "oasis_seasons",
+          "names": {
+            "default": "Seasons",
+            "english": "Seasons",
+            "spanish": "Estaciones",
+            "french": "",
+            "chinese": ""
+          }
+        },
+        {
+          "id": "com.tobreak.tobreakspanish.oasis.numbers.dates",
+          "words": "dates",
+          "icon": "dates",
+          "names": {
+            "default": "Dates",
+            "english": "Dates",
+            "spanish": "Fechas",
+            "french": "",
+            "chinese": ""
+          }
+        },
+        {
+          "id": "com.tobreak.tobreakspanish.oasis.numbers.colors",
+          "words": "oasis_colors",
+          "icon": "oasis_colors",
+          "names": {
+            "default": "Colors",
+            "english": "Colors",
+            "spanish": "Colores",
+            "french": "",
+            "chinese": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.tobreak.tobreakspanish.oasis.food",
+      "topic": "Food and drink",
+      "iconColor": "237.0,93.0,93.0",
+      "paleColor": "244.0,158.0,158.0",
+      "darkColor": "165.0,65.0,65.0",
+      "subtopics": [
+        {
+          "id": "com.tobreak.tobreakspanish.oasis.food.restaurant",
+          "words": "restaurant",
+          "icon": "restaurant",
+          "names": {
+            "default": "Restaurant",
+            "english": "Restaurant",
+            "spanish": "Restaurante",
+            "french": "",
+            "chinese": ""
+          },
+        },
+        {
+          "id": "com.tobreak.tobreakspanish.oasis.food.timetoeat",
+          "words": "timetoeat",
+          "icon": "timetoeat",
+          "names": {
+            "default": "Time to eat",
+            "english": "Time to eat",
+            "spanish": "Hora de comer",
+            "french": "",
+            "chinese": ""
+          }
+        },
+        {
+          "id": "com.tobreak.tobreakspanish.oasis.food.table",
+          "words": "table",
+          "icon": "table",
+          "names": {
+            "default": "On the table",
+            "english": "On the table",
+            "spanish": "En la mesa",
+            "french": "",
+            "chinese": ""
+          }
+        },
+        {
+          "id": "com.tobreak.tobreakspanish.oasis.food.preparations",
+          "words": "preparations",
+          "icon": "preparations",
+          "names": {
+            "default": "Preparation",
+            "english": "Preparation",
+            "spanish": "Preparación",
+            "french": "",
+            "chinese": ""
+          }
+        },
+        {
+          "id": "com.tobreak.tobreakspanish.oasis.food.foods",
+          "words": "foods",
+          "icon": "foods",
+          "names": {
+            "default": "Food",
+            "english": "Food",
+            "spanish": "Comida",
+            "french": "",
+            "chinese": ""
+          }
+        },
+        {
+          "id": "com.tobreak.tobreakspanish.oasis.food.drinks",
+          "words": "drinks",
+          "icon": "drinks",
+          "names": {
+            "default": "Drink",
+            "english": "Drink",
+            "spanish": "Bebida",
+            "french": "",
+            "chinese": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.tobreak.tobreakspanish.oasis.situations",
+      "topic": "Situations",
+      "iconColor": "187.0,114.0,217.0",
+      "paleColor": "214.0,170.0,232.0",
+      "darkColor": "131.0,80.0,151.0",
+      "subtopics": [
+        {
+          "id": "com.tobreak.tobreakspanish.oasis.situations.hotel",
+          "words": "hotel",
+          "icon": "hotel",
+          "names": {
+            "default": "At the hotel",
+            "english": "At the hotel",
+            "spanish": "En el hotel",
+            "french": "",
+            "chinese": ""
+          },
+        },
+        {
+          "id": "com.tobreak.tobreakspanish.oasis.situations.clothing",
+          "words": "clothing",
+          "icon": "clothing",
+          "names": {
+            "default": "Clothing",
+            "english": "Clothing",
+            "spanish": "Ropa",
+            "french": "",
+            "chinese": ""
+          }
+        },
+        {
+          "id": "com.tobreak.tobreakspanish.oasis.situations.weather",
+          "words": "weather",
+          "icon": "weather",
+          "names": {
+            "default": "Weather",
+            "english": "Weather",
+            "spanish": "Clima",
+            "french": "",
+            "chinese": ""
+          }
+        },
+        {
+          "id": "com.tobreak.tobreakspanish.oasis.situations.doctor",
+          "words": "doctor",
+          "icon": "doctor",
+          "names": {
+            "default": "Ath the doctor",
+            "english": "At the doctor",
+            "spanish": "En el médico",
+            "french": "",
+            "chinese": ""
+          }
+        },
+        {
+          "id": "com.tobreak.tobreakspanish.oasis.situations.pharmacy",
+          "words": "pharmacy",
+          "icon": "pharmacy",
+          "names": {
+            "default": "Pharmacy",
+            "english": "Pharmacy",
+            "spanish": "Farmacia",
+            "french": "",
+            "chinese": ""
+          }
+        },
+        {
+          "id": "com.tobreak.tobreakspanish.oasis.situations.emergency",
+          "words": "emergency",
+          "icon": "emergency",
+          "names": {
+            "default": "Emergency",
+            "english": "Emergency",
+            "spanish": "Emergencia",
+            "french": "",
+            "chinese": ""
+          }
+        }
+      ]
+    }
+  ]
+}

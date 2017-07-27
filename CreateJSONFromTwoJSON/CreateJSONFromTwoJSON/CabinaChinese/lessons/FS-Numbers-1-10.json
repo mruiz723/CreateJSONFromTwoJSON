@@ -1,0 +1,225 @@
+{
+    "items":[
+             {
+             "spanish":"uno",
+             "english":"one",
+             "spanishaudio":"uno",
+             "image":"uno",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "oas_eng_one",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"dos",
+             "english":"two",
+             "spanishaudio":"dos",
+             "image":"dos",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "oas_eng_two",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"tres",
+             "english":"three",
+             "spanishaudio":"tres",
+             "image":"tres",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "oas_eng_three",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"cuatro",
+             "english":"four",
+             "spanishaudio":"cuatro",
+             "image":"cuatro",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "oas_eng_four",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"cinco",
+             "english":"five",
+             "spanishaudio":"cinco",
+             "image":"cinco",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "oas_eng_five",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"seis",
+             "english":"six",
+             "spanishaudio":"seis",
+             "image":"seis",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "oas_eng_six",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"siete",
+             "english":"seven",
+             "spanishaudio":"siete",
+             "image":"siete",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "oas_eng_seven",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"ocho",
+             "english":"eight",
+             "spanishaudio":"ocho",
+             "image":"ocho",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "oas_eng_eight",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"nueve",
+             "english":"nine",
+             "spanishaudio":"nueve",
+             "image":"nueve",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "oas_eng_nine",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"diez",
+             "english":"ten",
+             "spanishaudio":"diez",
+             "image":"diez",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "oas_eng_ten",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"once",
+             "english":"eleven",
+             "spanishaudio":"once",
+             "image":"once",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "oas_eng_eleven",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"doce",
+             "english":"twelve",
+             "spanishaudio":"doce",
+             "image":"doce",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "oas_eng_twelve",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"trece",
+             "english":"thirteen",
+             "spanishaudio":"trece",
+             "image":"trece",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "oas_eng_thirteen",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"catorce",
+             "english":"fourteen",
+             "spanishaudio":"catorce",
+             "image":"catorce",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "oas_eng_fourteen",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"quince",
+             "english":"fifteen",
+             "spanishaudio":"quince",
+             "image":"quince",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "oas_eng_fifteen",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"dieciséis (diez y seis)",
+             "english":"sixteen",
+             "spanishaudio":"dieciseis",
+             "image":"dieciseis",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "oas_eng_sixteen",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"diecisiete (diez y siete)",
+             "english":"seventeen",
+             "spanishaudio":"diecisiete",
+             "image":"diecisiete",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "oas_eng_seventeen",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {  
+             "spanish":"dieciocho (diez y ocho)",
+             "english":"eighteen",
+             "spanishaudio":"dieciocho",
+             "image":"dieciocho",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "oas_eng_eighteen",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {  
+             "spanish":"diecinueve (diez y nueve)",
+             "english":"nineteen",
+             "spanishaudio":"diecinueve",
+             "image":"diecinueve",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "oas_eng_nineteen",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {  
+             "spanish":"veinte",
+             "english":"twenty",
+             "spanishaudio":"veinte",
+             "image":"veinte",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "oas_eng_twenty",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             }
+             
+             ]
+}

@@ -1,0 +1,181 @@
+{
+    "items":[
+             {
+             "spanish":"ballena",
+             "english":"whale",
+             "spanishaudio":"ballena-2",
+             "image":"ballena-2",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "whale",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"caballo",
+             "english":"horse",
+             "spanishaudio":"caballo",
+             "image":"caballo",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "eng_horse",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"cebra",
+             "english":"zebra",
+             "spanishaudio":"cebra",
+             "image":"cebra",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "eng_zebra",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"gato",
+             "english":"cat",
+             "spanishaudio":"gato",
+             "image":"gato",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "eng_cat",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"jirafa",
+             "english":"giraffe",
+             "spanishaudio":"jirafa",
+             "image":"jirafa",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "eng_giraffe",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"león",
+             "english":"lion",
+             "spanishaudio":"leon",
+             "image":"leon",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "eng_lion",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"llama",
+             "english":"llama",
+             "spanishaudio":"llama",
+             "image":"llama",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "eng_llama",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"oso",
+             "english":"bear",
+             "spanishaudio":"oso-2",
+             "image":"oso-2",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "bear",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"pájaro",
+             "english":"bird",
+             "spanishaudio":"pajaro",
+             "image":"pajaro",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "eng_bird",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"perro",
+             "english":"dog",
+             "spanishaudio":"perro",
+             "image":"perro",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "eng_dog",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"pez",
+             "english":"fish",
+             "spanishaudio":"pez",
+             "image":"pez",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "fish",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"rana",
+             "english":"frog",
+             "spanishaudio":"rana",
+             "image":"rana",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "eng_frog",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"ratón",
+             "english":"mouse",
+             "spanishaudio":"raton",
+             "image":"raton",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "eng_mouse",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {  
+             "spanish":"serpiente",
+             "english":"snake",
+             "spanishaudio":"serpiente",
+             "image":"serpiente",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "eng_snake",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {  
+             "spanish":"tigre",
+             "english":"tiger",
+             "spanishaudio":"tigre",
+             "image":"tigre",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "eng_tiger",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {  
+             "spanish":"vaca",
+             "english":"cow",
+             "spanishaudio":"vaca-2",
+             "image":"vaca-2",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "cow",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             }
+             
+             ]
+}

@@ -1,0 +1,191 @@
+{
+    "items":[
+             {
+             "spanish": "¿De qué color es?",
+             "english": "What color is it?",
+             "french": " ",
+             "chinese": "这是什么颜色？",
+             "englishaudio": "oas_eng_what_color_is_it",
+             "spanishaudio": "oas_spa_de_que_color_es",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "what_color_is_it"
+             },
+             {
+             "spanish": "negro",
+             "english": "black",
+             "french": " ",
+             "chinese": "黑色",
+             "englishaudio": "oas_eng_black",
+             "spanishaudio": "oas_spa_negro",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "negro"
+             },
+             {
+             "spanish": "azul",
+             "english": "blue",
+             "french": " ",
+             "chinese": "蓝色",
+             "englishaudio": "oas_eng_blue",
+             "spanishaudio": "oas_spa_azul",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "azul"
+             },
+             {
+             "spanish": "marrón",
+             "english": "brown",
+             "french": " ",
+             "chinese": "棕色",
+             "englishaudio": "oas_eng_brown",
+             "spanishaudio": "oas_spa_marron",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "marron"
+             },
+             {
+             "spanish": "coralino",
+             "english": "coral",
+             "french": " ",
+             "chinese": "珊瑚色",
+             "englishaudio": "oas_eng_coral",
+             "spanishaudio": "oas_spa_coralino",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "coral"
+             },
+             {
+             "spanish": "dorado",
+             "english": "gold",
+             "french": " ",
+             "chinese": "金色",
+             "englishaudio": "oas_eng_gold",
+             "spanishaudio": "oas_spa_dorado",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "golden"
+             },
+             {
+             "spanish": "gris",
+             "english": "gray",
+             "french": " ",
+             "chinese": "灰色",
+             "englishaudio": "oas_eng_grey",
+             "spanishaudio": "oas_spa_gris",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "gris"
+             },
+             {
+             "spanish": "verde",
+             "english": "green",
+             "french": " ",
+             "chinese": "绿色",
+             "englishaudio": "oas_eng_green",
+             "spanishaudio": "oas_spa_verde",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "verde"
+             },
+             {
+             "spanish": "anaranjado",
+             "english": "orange",
+             "french": " ",
+             "chinese": "橙色",
+             "englishaudio": "oas_eng_orange",
+             "spanishaudio": "oas_spa_anaranjado",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "anaranjado"
+             },
+             {
+             "spanish": "rosado",
+             "english": "pink",
+             "french": " ",
+             "chinese": "粉红色",
+             "englishaudio": "oas_eng_pink",
+             "spanishaudio": "oas_spa_rosado",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "rosado"
+             },
+             {
+             "spanish": "morado",
+             "english": "purple",
+             "french": " ",
+             "chinese": "紫色",
+             "englishaudio": "oas_eng_purple",
+             "spanishaudio": "oas_spa_morado",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "purple"
+             },
+             {
+             "spanish": "rojo",
+             "english": "red",
+             "french": " ",
+             "chinese": "红色",
+             "englishaudio": "oas_eng_red",
+             "spanishaudio": "oas_spa_rojo",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "oasis_red"
+             },
+             {
+             "spanish": "plateado",
+             "english": "silver",
+             "french": " ",
+             "chinese": "银色",
+             "englishaudio": "oas_eng_silver",
+             "spanishaudio": "oas_spa_plateado",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "silver"
+             },
+             {
+             "spanish": "turquesa",
+             "english": "turquoise",
+             "french": " ",
+             "chinese": "绿松石色／蓝绿色",
+             "englishaudio": "oas_eng_turquoise",
+             "spanishaudio": "oas_spa_turquesa",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "turquoise"
+             },
+             {
+             "spanish": "violeta",
+             "english": "violet",
+             "french": " ",
+             "chinese": "紫色",
+             "englishaudio": "oas_eng_violet",
+             "spanishaudio": "oas_spa_violeta",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "violet"
+             },
+             {
+             "spanish": "blanco",
+             "english": "white",
+             "french": " ",
+             "chinese": "白色",
+             "englishaudio": "oas_eng_white",
+             "spanishaudio": "oas_spa_blanco",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "blanco"
+             },
+             {
+             "spanish": "amarillo",
+             "english": "yellow",
+             "french": " ",
+             "chinese": "黄色",
+             "englishaudio": "oas_eng_yellow",
+             "spanishaudio": "oas_spa_amarillo",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "amarillo"
+             }
+             ]
+}

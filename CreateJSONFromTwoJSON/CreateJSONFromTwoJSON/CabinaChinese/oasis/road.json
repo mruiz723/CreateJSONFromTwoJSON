@@ -1,0 +1,114 @@
+{
+    "items":[
+             {
+             "spanish": "el carro, el coche",
+             "english": "car",
+             "french": " ",
+             "chinese": "汽车",
+             "englishaudio": "oas_eng_car",
+             "spanishaudio": "oas_spa_el_carro",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "oasis_car"
+             },
+             {
+             "spanish": "el camión",
+             "english": "truck",
+             "french": " ",
+             "chinese": "卡车",
+             "englishaudio": "oas_eng_truck",
+             "spanishaudio": "oas_spa_el_camion",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "camion"
+             },
+             {
+             "spanish": "la gasolinera",
+             "english": "gas station",
+             "french": " ",
+             "chinese": "加油站",
+             "englishaudio": "oas_eng_gas_station",
+             "spanishaudio": "oas_spa_la_gasolinera",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "gasolinera"
+             },
+             {
+             "spanish": "la gasolina",
+             "english": "gasoline",
+             "french": " ",
+             "chinese": "汽油",
+             "englishaudio": "oas_eng_gasoline",
+             "spanishaudio": "oas_spa_la_gasolina",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "gasolina"
+             },
+             {
+             "spanish": "la autopista",
+             "english": "highway",
+             "french": " ",
+             "chinese": "高速公路",
+             "englishaudio": "oas_eng_highway",
+             "spanishaudio": "oas_spa_la_autopista",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "autopista"
+             },
+             {
+             "spanish": "el cruce",
+             "english": "intersection",
+             "french": " ",
+             "chinese": "交叉路口",
+             "englishaudio": "oas_eng_intersection",
+             "spanishaudio": "oas_spa_el_cruce",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "cruce"
+             },
+             {
+             "spanish": "la autopista/la carretera (de peaje)",
+             "english": "road (toll)",
+             "french": " ",
+             "chinese": "公路（收费）",
+             "englishaudio": "oas_eng_toll_road",
+             "spanishaudio": "oas_spa_la_autopista_carretera_de_peaje",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "peaje"
+             },
+             {
+             "spanish": "la llanta, el neumático (Esp.) (desinflado/a)",
+             "english": "tire (flat)",
+             "french": " ",
+             "chinese": "轮胎（瘪）",
+             "englishaudio": "oas_eng_flat_tire",
+             "spanishaudio": "oas_spa_la_llanta_desinflada",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "neumatico"
+             },
+             {
+             "spanish": "el semáforo",
+             "english": "traffic light",
+             "french": " ",
+             "chinese": "红绿灯",
+             "englishaudio": "oas_eng_traffic_light",
+             "spanishaudio": "oas_spa_el_semaforo",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "semaforo"
+             },
+             {
+             "spanish": "límite de velocidad",
+             "english": "speed limit",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "oas_eng_speed_limit",
+             "spanishaudio": "oas_spa_limite_de_velocidad",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "limite_velocidad"
+             }
+             ]
+}

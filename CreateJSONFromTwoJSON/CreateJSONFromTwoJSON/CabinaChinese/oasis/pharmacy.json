@@ -1,0 +1,158 @@
+{
+    "items":[
+             {
+             "spanish": "en la farmacia",
+             "english": "at the pharmacy",
+             "french": " ",
+             "chinese": "在药店",
+             "englishaudio": "oas_eng_at_the_pharmacy",
+             "spanishaudio": "oas_spa_en_la_farmacia",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "oasis_pharmacy"
+             },
+             {
+             "spanish": "la aspirina",
+             "english": "aspirin",
+             "french": " ",
+             "chinese": "阿司匹林",
+             "englishaudio": "oas_eng_aspirin",
+             "spanishaudio": "oas_spa_la_aspirina",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "la_aspirina"
+             },
+             {
+             "spanish": "la tirita",
+             "english": "band-aid",
+             "french": " ",
+             "chinese": "创可贴",
+             "englishaudio": "oas_eng_band-aid",
+             "spanishaudio": "oas_spa_la_tirita",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "tirita"
+             },
+             {
+             "spanish": "el peine",
+             "english": "comb",
+             "french": " ",
+             "chinese": "梳子",
+             "englishaudio": "oas_eng_comb",
+             "spanishaudio": "oas_spa_el_peine",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "el_peine"
+             },
+             {
+             "spanish": "el cepillo",
+             "english": "brush",
+             "french": " ",
+             "chinese": "刷子",
+             "englishaudio": "oas_eng_brush",
+             "spanishaudio": "oas_spa_el_cepillo",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "el_cepillo"
+             },
+             {
+             "spanish": "el repelente de insectos",
+             "english": "insect repellent",
+             "french": " ",
+             "chinese": "防虫剂",
+             "englishaudio": "oas_eng_insect_repellent",
+             "spanishaudio": "oas_spa_el_repelente_de_insectos",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "repelente"
+             },
+             {
+             "spanish": "la loción",
+             "english": "lotion",
+             "french": " ",
+             "chinese": "霜",
+             "englishaudio": "oas_eng_lotion",
+             "spanishaudio": "oas_spa_la_locion",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "locion"
+             },
+             {
+             "spanish": "el analgésico",
+             "english": "pain reliever",
+             "french": " ",
+             "chinese": "止痛剂",
+             "englishaudio": "oas_eng_pain_reliever",
+             "spanishaudio": "oas_spa_el_analgesico",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "analgesico"
+             },
+             {
+             "spanish": "la maquinilla de afeitar, la afeitadora",
+             "english": "razor",
+             "french": " ",
+             "chinese": "剃刀",
+             "englishaudio": "oas_eng_razor",
+             "spanishaudio": "oas_spa_la_maquinilla_de_afeitar",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "afeitadora"
+             },
+             {
+             "spanish": "las tijeras",
+             "english": "scissors",
+             "french": " ",
+             "chinese": "剪刀",
+             "englishaudio": "oas_eng_scissors",
+             "spanishaudio": "oas_spa_las_tijeras",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "tijeras"
+             },
+             {
+             "spanish": "el champú",
+             "english": "shampoo",
+             "french": " ",
+             "chinese": "洗发露",
+             "englishaudio": "oas_eng_shampoo",
+             "spanishaudio": "oas_spa_el_champu",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "shampoo"
+             },
+             {
+             "spanish": "la crema solar",
+             "english": "sunscreen",
+             "french": " ",
+             "chinese": "防晒霜",
+             "englishaudio": "oas_eng_sunscreen",
+             "spanishaudio": "oas_spa_la_crema_solar",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "crema_solar"
+             },
+             {
+             "spanish": "el cepillo de dientes",
+             "english": "toothbrush",
+             "french": " ",
+             "chinese": "牙刷",
+             "englishaudio": "oas_eng_toothbrush",
+             "spanishaudio": "oas_spa_el_cepillo_de_dientes",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "cepillo_de_dientes"
+             },
+             {
+             "spanish": "la pasta dentífrica",
+             "english": "toothpaste",
+             "french": " ",
+             "chinese": "牙膏",
+             "englishaudio": "oas_eng_toothpaste",
+             "spanishaudio": "oas_spa_la_pasta_dentifrica",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "pasta_dentifrica"
+             }
+             ]
+}

@@ -1,0 +1,246 @@
+{
+    "items":[
+             {
+             "spanish": "¿CÓMO está usted?",
+             "english": "HOW are you?",
+             "french": " ",
+             "chinese": "你好吗？",
+             "englishaudio": "oas_eng_how_are_you",
+             "spanishaudio": "oas_spa_como_esta_usted",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "como_esta"
+             },
+             {
+             "spanish": "¿CUÁNTAS horas más?",
+             "english": "HOW MANY more hours?",
+             "french": " ",
+             "chinese": "还要多少个小时？",
+             "englishaudio": "oas_eng_how_many_more_hours",
+             "spanishaudio": "oas_spa_cuantas_horas_mas",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "cuantas_horas"
+             },
+             {
+             "spanish": "¿Por qué vamos allí?",
+             "english": "WHY are we going there?",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "oas_eng_why_are_we_going_there",
+             "spanishaudio": "oas_spa_por_que_vamos_alli",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "por_que_vamos"
+             },
+             {
+             "spanish": "¿Adónde vamos?\r",
+             "english": "WHERE are we going?",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "oas_eng_where_are_we_going",
+             "spanishaudio": "oas_spa_a_donde_vamos",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "adonde_vamos"
+             },
+             {
+             "spanish": "¿CUÁNTO cuesta?",
+             "english": "HOW MUCH does it cost?",
+             "french": " ",
+             "chinese": "这个多少钱？",
+             "englishaudio": "oas_eng_how_much_does_it_cost",
+             "spanishaudio": "oas_spa_cuanto_cuesta",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "cuanto_cuesta"
+             },
+             {
+             "spanish": "¿CÓMO se dice en español?",
+             "english": "HOW do you say in Spanish?",
+             "french": " ",
+             "chinese": "用西班牙语怎么说？",
+             "englishaudio": "oas_eng_how_do_you_say_in_spanish",
+             "spanishaudio": "oas_spa_como_se_dice_en_espanol",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "como_se_dice_en_espanol"
+             },
+             {
+             "spanish": "¿CÓMO se dice en inglés?",
+             "english": "HOW do you say in English?",
+             "french": " ",
+             "chinese": "用西班牙语怎么说？",
+             "englishaudio": "oas_eng_how_do_you_say_in_english",
+             "spanishaudio": "oas_spa_como_se_dice_en_ingles",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "como_se_dice_en_ingles"
+             },
+             {
+             "spanish": "¿QUÉ es eso?",
+             "english": "WHAT is that?",
+             "french": " ",
+             "chinese": "那是什么？",
+             "englishaudio": "oas_eng_what_is_that",
+             "spanishaudio": "oas_spa_que_es_eso",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "que_es_eso"
+             },
+             {
+             "spanish": "¿CUÁNDO vamos al mercado?",
+             "english": "WHEN are we going to the market?",
+             "french": " ",
+             "chinese": "我们什么时候去市场？",
+             "englishaudio": "oas_eng_when_are_we_going_to_the_market",
+             "spanishaudio": "oas_spa_cuando_vamos_al_mercado",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "cuando_vamos_al_mercado"
+             },
+             {
+             "spanish": "¿DÓNDE está el (cuarto de) baño?",
+             "english": "WHERE is the bathroom?",
+             "french": " ",
+             "chinese": "洗手间在哪里？",
+             "englishaudio": "oas_eng_wheres_the_bathroom",
+             "spanishaudio": "oas_spa_donde_esta_el_cuarto_de_bano",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "donde_esta_el_bano"
+             },
+             {
+             "spanish": "¿CUÁL es el/la mejor?",
+             "english": "WHICH is the best?",
+             "french": " ",
+             "chinese": "哪个最好？",
+             "englishaudio": "oas_eng_which_is_the_best",
+             "spanishaudio": "oas_spa_cual_es_el_mejor",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "cual_es_mejor"
+             },
+             {
+             "spanish": "¿QUIÉN es?",
+             "english": "WHO is it?",
+             "french": " ",
+             "chinese": "是谁？",
+             "englishaudio": "oas_eng_who_is_it",
+             "spanishaudio": "oas_spa_quien_es",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "quien_es"
+             },
+             {
+             "spanish": "¿POR QUÉ está cerrado?",
+             "english": "WHY is it closed?",
+             "french": " ",
+             "chinese": "为什么关门了？",
+             "englishaudio": "oas_eng_why_is_it_closed",
+             "spanishaudio": "oas_spa_por_que_esta_cerrado",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "cerrado"
+             },
+             {
+             "spanish": "¿Qué hora es?",
+             "english": "WHAT time is it?",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "oas_eng_what_time_is_it",
+             "spanishaudio": "oas_spa_que_hora_es",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "que_hora_es"
+             },
+             {
+             "spanish": "¿DÓNDE se puede(n) comprar__?",
+             "english": "WHERE can I buy__?",
+             "french": " ",
+             "chinese": "我在哪里可以买到__？",
+             "englishaudio": "oas_eng_where_can_i_buy",
+             "spanishaudio": "oas_spa_donde_se_puede_comprar",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "donde_se_puede_comprar"
+             },
+             {
+             "spanish": "caramelos, dulces",
+             "english": "candy",
+             "french": " ",
+             "chinese": "糖果",
+             "englishaudio": "oas_eng_candy",
+             "spanishaudio": "oas_spa_caramelos",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "dulces"
+             },
+             {
+             "spanish": "chicle",
+             "english": "gum",
+             "french": " ",
+             "chinese": "口香糖",
+             "englishaudio": "oas_eng_gum",
+             "spanishaudio": "oas_spa_chicle",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "chicle"
+             },
+             {
+             "spanish": "una revista",
+             "english": "magazine",
+             "french": " ",
+             "chinese": "杂志",
+             "englishaudio": "oas_eng_magazine",
+             "spanishaudio": "oas_spa_una_revista",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "revista"
+             },
+             {
+             "spanish": "un periódico",
+             "english": "newspaper",
+             "french": " ",
+             "chinese": "报纸",
+             "englishaudio": "oas_eng_newspaper",
+             "spanishaudio": "oas_spa_un_periodico",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "periodico"
+             },
+             {
+             "spanish": "postales",
+             "english": "postcards",
+             "french": " ",
+             "chinese": "明信片",
+             "englishaudio": "oas_eng_postcards",
+             "spanishaudio": "oas_spa_postales",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "tarjeta_postal"
+             },
+             {
+             "spanish": "estampillas, sellos (Esp.)",
+             "english": "stamps",
+             "french": " ",
+             "chinese": "邮票",
+             "englishaudio": "oas_eng_stamps",
+             "spanishaudio": "oas_spa_estampillas",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "estampillas"
+             },
+             {
+             "spanish": "una tarjeta telefónica",
+             "english": "telephone card",
+             "french": " ",
+             "chinese": "电话卡",
+             "englishaudio": "oas_eng_telephone_card",
+             "spanishaudio": "oas_spa_una_tarjeta_telefonica",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "telephone_card"
+             }
+             ]
+}

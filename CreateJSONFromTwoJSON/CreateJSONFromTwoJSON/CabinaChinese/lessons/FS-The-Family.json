@@ -1,0 +1,236 @@
+{
+    "items":[
+             {
+             "spanish":"abuela",
+             "english":"grandmother",
+             "spanishaudio":"abuela",
+             "image":"abuela",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "grandmother",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"abuelo",
+             "english":"grandfather",
+             "spanishaudio":"abuelo",
+             "image":"abuelo",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "grandfather",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"cuñada",
+             "english":"sister-in-law",
+             "spanishaudio":"cunada-2",
+             "image":"cunada-2",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "sister_in_law",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"cuñado",
+             "english":"brother-in-law",
+             "spanishaudio":"cunado",
+             "image":"cunado",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "brother_in_law",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"esposa",
+             "english":"wife",
+             "spanishaudio":"esposa",
+             "image":"esposa",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "wife",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"esposo",
+             "english":"husband",
+             "spanishaudio":"esposo",
+             "image":"esposo",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "husband",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"hermana",
+             "english":"sister",
+             "spanishaudio":"hermana",
+             "image":"hermana",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "sister",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"hermano",
+             "english":"brother",
+             "spanishaudio":"hermano",
+             "image":"hermano",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "brother",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"hija",
+             "english":"daughter",
+             "spanishaudio":"hija",
+             "image":"hija",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "daughter",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"hijo",
+             "english":"son",
+             "spanishaudio":"hijo",
+             "image":"hijo",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "son",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"madre",
+             "english":"mother",
+             "spanishaudio":"madre",
+             "image":"madre",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "mother",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"nieta",
+             "english":"granddaughter",
+             "spanishaudio":"nieta",
+             "image":"nieta",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "granddaughter",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"nieto",
+             "english":"grandson",
+             "spanishaudio":"nieto",
+             "image":"nieto",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "grandson",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"padre",
+             "english":"father",
+             "spanishaudio":"padre",
+             "image":"padre",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "father",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"prima, primo",
+             "english":"cousin",
+             "spanishaudio":"prima-primo",
+             "image":"prima-primo",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "cousin",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"sobrina",
+             "english":"niece",
+             "spanishaudio":"sobrina",
+             "image":"sobrina",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "niece",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"sobrino",
+             "english":"nephew",
+             "spanishaudio":"sobrino",
+             "image":"sobrino",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "nephew",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {  
+             "spanish":"suegra",
+             "english":"mother-in-law",
+             "spanishaudio":"suegra",
+             "image":"suegra",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "mother_in_law",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {  
+             "spanish":"suegro",
+             "english":"father-in-law",
+             "spanishaudio":"suegro",
+             "image":"suegro",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "father_in_law",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {  
+             "spanish":"tía",
+             "english":"aunt",
+             "spanishaudio":"tia",
+             "image":"tia",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "aunt",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {  
+             "spanish":"tío",
+             "english":"uncle",
+             "spanishaudio":"tio",
+             "image":"tio",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "uncle",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             }
+             
+             ]
+}

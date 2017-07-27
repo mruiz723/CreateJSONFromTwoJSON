@@ -1,0 +1,104 @@
+{
+    "items":[
+             {
+             "spanish":"Es la una.",
+             "english":"It’s one o’clock.",
+             "spanishaudio":"es-la-una",
+             "image":"es-la-una",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "its_one_oclock",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"Son las dos.",
+             "english":"It’s two o’clock.",
+             "spanishaudio":"son-las-dos",
+             "image":"son-las-dos",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "its_two_oclock",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"Son las tres.",
+             "english":"It’s three o’clock.",
+             "spanishaudio":"son-las-tres",
+             "image":"son-las-tres",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "its_three_oclock",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"Es la una y cuarto.",
+             "english":"It’s quarter past one.",
+             "spanishaudio":"es-la-una-y-cuarto",
+             "image":"son-la-una-y-cuarto",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "its_quarter_past_one",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"Son las dos y cuarto.",
+             "english":"It’s quarter past two.",
+             "spanishaudio":"son-las-dos-y-cuarto",
+             "image":"son-las-dos-y-cuarto",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "its_quarter_past_two",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"Es la una y media.",
+             "english":"It’s one-thirty.",
+             "spanishaudio":"es-la-una-y-media",
+             "image":"es-la-una-y-media",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "its_one_thirty",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"Son las cinco y media.",
+             "english":"It’s five-thirty.",
+             "spanishaudio":"son-las-cinco-y-media",
+             "image":"son-las-cinco-y-media",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "its_five_thirty",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"Es la una menos cuarto.",
+             "english":"It’s quarter of one.",
+             "spanishaudio":"es-la-una-menos-cuarto",
+             "image":"es-la-una-menos-cuarto",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "its_quarter_of_one",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {  
+             "spanish":"Son las nueve menos cuarto.",
+             "english":"It’s quarter of nine.",
+             "spanishaudio":"son-las-nueve-menos-cuarto",
+             "image":"son-las-nueve-menos-cuarto",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "its_quarter_of_nine",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             }
+             
+             ]
+}

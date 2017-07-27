@@ -1,0 +1,82 @@
+{
+    "items":[
+             {
+             "spanish":"¿Qué tiempo hace hoy?",
+             "english":"How’s the weather today?",
+             "spanishaudio":"que-tiempo-hace-hoy",
+             "image":"que-tiempo-hace-hoy",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "hows_the_weather_today",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"Hace calor.",
+             "english":"It’s hot.",
+             "spanishaudio":"hace-calor",
+             "image":"hace-calor",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "its_hot",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"Hace frío.",
+             "english":"It’s cold.",
+             "spanishaudio":"hace-frio",
+             "image":"hace-frio",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "oas_eng_its_cold",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"Hace sol.",
+             "english":"It’s sunny.",
+             "spanishaudio":"hace-sol",
+             "image":"hace-sol",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "oas_eng_its_sunny",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"Hace viento.",
+             "english":"It’s windy.",
+             "spanishaudio":"hace-viento",
+             "image":"hace-viento",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "oas_eng_its_windy",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {
+             "spanish":"LLueve.",
+             "english":"It’s raining.",
+             "spanishaudio":"llueve",
+             "image":"llueve",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "oas_eng_its_raining",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             },
+             {  
+             "spanish":"Nieva.",
+             "english":"It’s snowing.",
+             "spanishaudio":"nieva-2",
+             "image":"nieva",
+             "french": " ",
+             "chinese": " ",
+             "englishaudio": "oas_eng_its_snowing",
+             "frenchaudio": " ",
+             "chineseaudio": " "
+             }
+             
+             ]
+}

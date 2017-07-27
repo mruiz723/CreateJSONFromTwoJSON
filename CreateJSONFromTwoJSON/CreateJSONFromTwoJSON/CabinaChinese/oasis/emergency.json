@@ -1,0 +1,102 @@
+{
+    "items":[
+             {
+             "spanish": "en una emergencia",
+             "english": "in an emergency",
+             "french": " ",
+             "chinese": "在急救室",
+             "englishaudio": "oas_eng_in_an_emergency",
+             "spanishaudio": "oas_spa_en_una_emergencia",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "emergencia"
+             },
+             {
+             "spanish": "¡Ambulancia!",
+             "english": "Ambulance!",
+             "french": " ",
+             "chinese": "救护车！",
+             "englishaudio": "oas_eng_ambulance",
+             "spanishaudio": "oas_spa_ambulancia",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "ambulancia"
+             },
+             {
+             "spanish": "Soy alérgico a...",
+             "english": "I'm allergic to...",
+             "french": " ",
+             "englishaudio": "oas_eng_im_allergic_to",
+             "spanishaudio": "oas_spa_soy_alergico_a",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "alergico"
+             },
+             {
+             "spanish": "¡Fuego!",
+             "english": "Fire!",
+             "french": " ",
+             "chinese": "着火了！",
+             "englishaudio": "oas_eng_fire",
+             "spanishaudio": "oas_spa_fuego",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "fuego"
+             },
+             {
+             "spanish": "¡Socorro!",
+             "english": "Help!",
+             "french": " ",
+             "chinese": "救命！",
+             "englishaudio": "oas_eng_help",
+             "spanishaudio": "oas_spa_socorro",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "socorro"
+             },
+             {
+             "spanish": "¡Estoy perdido/a!",
+             "english": "I’m lost!",
+             "french": " ",
+             "chinese": "我迷路了！",
+             "englishaudio": "oas_eng_im_lost",
+             "spanishaudio": "oas_spa_estoy_perdido",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "estoy_perdido"
+             },
+             {
+             "spanish": "¡Déjeme tranquilo/a!",
+             "english": "Leave me alone!",
+             "french": " ",
+             "chinese": "别管我！／离开我！",
+             "englishaudio": "oas_eng_leave_me_alone",
+             "spanishaudio": "oas_spa_dejeme_tranquilo",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "dejame_tranquila"
+             },
+             {
+             "spanish": "¡Rápido!",
+             "english": "Quickly!",
+             "french": " ",
+             "chinese": "快！",
+             "englishaudio": "oas_eng_quickly",
+             "spanishaudio": "oas_spa_rapido",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "rapido"
+             },
+             {
+             "spanish": "¡Urgente!",
+             "english": "Urgent!",
+             "french": " ",
+             "chinese": "紧急！",
+             "englishaudio": "oas_eng_urgent",
+             "spanishaudio": "oas_spa_urgente",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "urgente"
+             }
+             ]
+}

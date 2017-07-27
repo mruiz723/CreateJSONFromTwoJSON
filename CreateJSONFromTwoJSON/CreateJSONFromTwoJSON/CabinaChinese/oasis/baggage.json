@@ -1,0 +1,278 @@
+{
+    "items":[
+             {
+             "spanish": "Hacer la maleta",
+             "english": "packing, to pack",
+             "french": " ",
+             "chinese": "收拾行李",
+             "englishaudio": "oas_eng_packing",
+             "spanishaudio": "oas_spa_hacer_la_maleta",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "hacer_la_maleta"
+             },
+             {
+             "spanish": "No olvides...",
+             "english": "Don’t forget...",
+             "french": " ",
+             "chinese": "别忘了_____",
+             "englishaudio": "oas_eng_dont_forget",
+             "spanishaudio": "oas_spa_no_olvides",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "no_olvides"
+             },
+             {
+             "spanish": "el despertador",
+             "english": "alarm clock",
+             "french": " ",
+             "chinese": "闹钟",
+             "englishaudio": "oas_eng_alarm_clock",
+             "spanishaudio": "oas_spa_el_despertador",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "despertador"
+             },
+             {
+             "spanish": "auriculares",
+             "english": "headphones",
+             "french": " ",
+             "englishaudio": "oas_eng_headphones",
+             "spanishaudio": "oas_spa_auriculares",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "auriculares"
+             },
+             {
+             "spanish": "el reloj",
+             "english": "watch",
+             "french": " ",
+             "chinese": "表",
+             "englishaudio": "oas_eng_watch",
+             "spanishaudio": "oas_spa_el_reloj",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "reloj"
+             },
+             {
+             "spanish": "la mochila",
+             "english": "backpack",
+             "french": " ",
+             "chinese": "背包",
+             "englishaudio": "oas_eng_backpack",
+             "spanishaudio": "oas_spa_la_mochila",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "mochila"
+             },
+             {
+             "spanish": "el maletín",
+             "english": "briefcase",
+             "french": " ",
+             "chinese": "公文包",
+             "englishaudio": "oas_eng_briefcase",
+             "spanishaudio": "oas_spa_el_maletin",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "maletin"
+             },
+             {
+             "spanish": "la cámara",
+             "english": "camera",
+             "french": " ",
+             "chinese": "照相机",
+             "englishaudio": "oas_eng_camera",
+             "spanishaudio": "oas_spa_la_camara",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "camara"
+             },
+             {
+             "spanish": "el teléfono celular, el móvil (Esp.)",
+             "english": "cellphone",
+             "french": " ",
+             "chinese": "手机",
+             "englishaudio": "oas_eng_cellphone",
+             "spanishaudio": "oas_spa_el_telefono_celular_el_movil",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "celular"
+             },
+             {
+             "spanish": "la ropa",
+             "english": "clothing",
+             "french": " ",
+             "chinese": "衣物",
+             "englishaudio": "oas_eng_clothing",
+             "spanishaudio": "oas_spa_la_ropa",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "ropa"
+             },
+             {
+             "spanish": "los lentes de contacto",
+             "english": "contact lenses",
+             "french": " ",
+             "chinese": "隐形眼镜",
+             "englishaudio": "oas_eng_contact_lenses",
+             "spanishaudio": "oas_spa_los_lentes_de_contacto",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "lentes_de_contacto"
+             },
+             {
+             "spanish": "la tarjeta de crédito",
+             "english": "credit card",
+             "french": " ",
+             "chinese": "信用卡",
+             "englishaudio": "oas_eng_credit_card",
+             "spanishaudio": "oas_spa_la_tarjeta_de_credito",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "tarjeta_de_credito"
+             },
+             {
+             "spanish": "la película (el rollo de)",
+             "english": "film (roll of)",
+             "french": " ",
+             "chinese": "胶卷",
+             "englishaudio": "oas_eng_film",
+             "spanishaudio": "oas_spa_la_pelicula",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "pelicula"
+             },
+             {
+             "spanish": "el botiquín de primeros auxilios",
+             "english": "first-aid kit",
+             "french": " ",
+             "chinese": "急救包",
+             "englishaudio": "oas_eng_first_aid_kit",
+             "spanishaudio": "oas_spa_botiquin_primeros_auxilios",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "botiquin"
+             },
+             {
+             "spanish": "la linterna",
+             "english": "flashlight",
+             "french": " ",
+             "chinese": "手电筒",
+             "englishaudio": "oas_eng_flashlight",
+             "spanishaudio": "oas_spa_la_linterna",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "la_linterna"
+             },
+             {
+             "spanish": "las gafas, los anteojos",
+             "english": "glasses",
+             "french": " ",
+             "chinese": "眼镜",
+             "englishaudio": "oas_eng_glasses",
+             "spanishaudio": "oas_spa_las_gafas_los_anteojos",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "gafas"
+             },
+             {
+             "spanish": "el dinero",
+             "english": "money",
+             "french": " ",
+             "chinese": "钱",
+             "englishaudio": "oas_eng_money",
+             "spanishaudio": "oas_spa_el_dinero",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "dinero"
+             },
+             {
+             "spanish": "el pasaporte",
+             "english": "passport",
+             "french": " ",
+             "chinese": "护照",
+             "englishaudio": "oas_eng_passport",
+             "spanishaudio": "oas_spa_el_pasaporte",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "pasaporte"
+             },
+             {
+             "spanish": "el bolso (Esp.), la bolsa",
+             "english": "pocketbook",
+             "french": " ",
+             "chinese": "口袋书／袖珍本",
+             "englishaudio": "oas_eng_pocketbook",
+             "spanishaudio": "oas_spa_el_bolso_la_bolsa",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "pocketbook"
+             },
+             {
+             "spanish": "la maleta",
+             "english": "suitcase",
+             "french": " ",
+             "chinese": "行李箱",
+             "englishaudio": "oas_eng_suitcase",
+             "spanishaudio": "oas_spa_la_maleta",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "maleta"
+             },
+             {
+             "spanish": "el billete, el boleto",
+             "english": "ticket",
+             "french": " ",
+             "chinese": "票",
+             "englishaudio": "oas_eng_ticket",
+             "spanishaudio": "oas_spa_el_billete_el_boleto",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "boleto"
+             },
+             {
+             "spanish": "la guía",
+             "english": "travel guide",
+             "french": " ",
+             "chinese": "旅游指南",
+             "englishaudio": "oas_eng_travel_guide",
+             "spanishaudio": "oas_spa_la_guia",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "travelguide"
+             },
+             {
+             "spanish": "el mapa",
+             "english": "map",
+             "french": " ",
+             "chinese": "地图",
+             "englishaudio": "oas_eng_map",
+             "spanishaudio": "oas_spa_el_mapa",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "mapa"
+             },
+             {
+             "spanish": "la visa, el visado (Esp.)",
+             "english": "visa",
+             "french": " ",
+             "chinese": "签证",
+             "englishaudio": "oas_eng_visa",
+             "spanishaudio": "oas_spa_la_visa_el_visado",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "visa"
+             },
+             {
+             "spanish": "la billetera, la cartera",
+             "english": "wallet",
+             "french": " ",
+             "chinese": "钱包",
+             "englishaudio": "oas_eng_wallet",
+             "spanishaudio": "oas_spa_la_billetera_la_cartera",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "billetera"
+             }
+             ]
+}

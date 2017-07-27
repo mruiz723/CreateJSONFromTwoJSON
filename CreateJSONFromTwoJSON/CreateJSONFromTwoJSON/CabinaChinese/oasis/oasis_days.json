@@ -1,0 +1,169 @@
+{
+    "items":[
+             {
+             "spanish": "lunes",
+             "english": "Monday",
+             "french": " ",
+             "chinese": "星期一",
+             "englishaudio": "oas_eng_monday",
+             "spanishaudio": "oas_spa_lunes",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "lunes"
+             },
+             {
+             "spanish": "martes",
+             "english": "Tuesday",
+             "french": " ",
+             "chinese": "星期二",
+             "englishaudio": "oas_eng_tuesday",
+             "spanishaudio": "oas_spa_martes",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "martes"
+             },
+             {
+             "spanish": "miércoles",
+             "english": "Wednesday",
+             "french": " ",
+             "chinese": "星期三",
+             "englishaudio": "oas_eng_wednesday",
+             "spanishaudio": "oas_spa_miercoles",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "miercoles"
+             },
+             {
+             "spanish": "jueves",
+             "english": "Thursday",
+             "french": " ",
+             "chinese": "星期四",
+             "englishaudio": "oas_eng_thursday",
+             "spanishaudio": "oas_spa_jueves",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "jueves"
+             },
+             {
+             "spanish": "viernes",
+             "english": "Friday",
+             "french": " ",
+             "chinese": "星期五",
+             "englishaudio": "oas_eng_friday",
+             "spanishaudio": "oas_spa_viernes",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "viernes"
+             },
+             {
+             "spanish": "sábado",
+             "english": "Saturday",
+             "french": " ",
+             "chinese": "星期六",
+             "englishaudio": "oas_eng_saturday",
+             "spanishaudio": "oas_spa_sabado",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "sabado"
+             },
+             {
+             "spanish": "domingo",
+             "english": "Sunday",
+             "french": " ",
+             "chinese": "星期日",
+             "englishaudio": "oas_eng_sunday",
+             "spanishaudio": "oas_spa_domingo",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "domingo"
+             },
+             {
+             "spanish": "el día",
+             "english": "day",
+             "french": " ",
+             "chinese": "天",
+             "englishaudio": "oas_eng_day",
+             "spanishaudio": "oas_spa_el_dia",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "day"
+             },
+             {
+             "spanish": "ayer",
+             "english": "yesterday",
+             "french": " ",
+             "chinese": "昨天",
+             "englishaudio": "oas_eng_yesterday",
+             "spanishaudio": "oas_spa_ayer",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "ayer"
+             },
+             {
+             "spanish": "hoy",
+             "english": "today",
+             "french": " ",
+             "chinese": "今天",
+             "englishaudio": "oas_eng_today",
+             "spanishaudio": "oas_spa_hoy",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "today"
+             },
+             {
+             "spanish": "mañana",
+             "english": "tomorrow",
+             "french": " ",
+             "chinese": "明天",
+             "englishaudio": "oas_eng_tomorrow",
+             "spanishaudio": "oas_spa_manana",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "tomorrow"
+             },
+             {
+             "spanish": "la semana",
+             "english": "week",
+             "french": " ",
+             "chinese": "星期／周",
+             "englishaudio": "oas_eng_week",
+             "spanishaudio": "oas_spa_la_semana",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "week"
+             },
+             {
+             "spanish": "la semana pasada",
+             "english": "last week",
+             "french": " ",
+             "chinese": "上个星期／上周",
+             "englishaudio": "oas_eng_last_week",
+             "spanishaudio": "oas_spa_la_semana_pasada",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "last_week"
+             },
+             {
+             "spanish": "hace dos semanas",
+             "english": "two weeks ago",
+             "french": " ",
+             "chinese": "两周前",
+             "englishaudio": "oas_eng_two_weeks_ago",
+             "spanishaudio": "oas_spa_hace_dos_semanas",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "two_weeks_ago"
+             },
+             {
+             "spanish": "la semana que viene, la próxima semana",
+             "english": "next week",
+             "french": " ",
+             "chinese": "下个星期／下周",
+             "englishaudio": "oas_eng_next_week",
+             "spanishaudio": "oas_spa_la_semana_que_viene",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "la_semana_que_viene"
+             }
+             ]
+}

@@ -1,0 +1,213 @@
+{
+    "items":[
+             {
+             "spanish": "cocido, cocinado",
+             "english": "cooked",
+             "french": " ",
+             "chinese": "熟的",
+             "englishaudio": "oas_eng_cooked",
+             "spanishaudio": "oas_spa_cocido",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "cocido"
+             },
+             {
+             "spanish": "frito",
+             "english": "fried",
+             "french": " ",
+             "chinese": "油炸的",
+             "englishaudio": "oas_eng_fried",
+             "spanishaudio": "oas_spa_frito",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "frito"
+             },
+             {
+             "spanish": "tostado",
+             "english": "toasted",
+             "french": " ",
+             "chinese": "烤的",
+             "englishaudio": "oas_eng_toasted",
+             "spanishaudio": "oas_spa_tostado",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "tostado"
+             },
+             {
+             "spanish": "fresco",
+             "english": "fresh",
+             "french": " ",
+             "chinese": "新鲜的",
+             "englishaudio": "oas_eng_fresh",
+             "spanishaudio": "oas_spa_fresco",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "fresco"
+             },
+             {
+             "spanish": "crudo",
+             "english": "raw",
+             "french": " ",
+             "chinese": "生的",
+             "englishaudio": "oas_eng_raw",
+             "spanishaudio": "oas_spa_crudo",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "crudo"
+             },
+             {
+             "spanish": "congelado",
+             "english": "frozen",
+             "french": " ",
+             "chinese": "冷冻的",
+             "englishaudio": "oas_eng_frozen",
+             "spanishaudio": "oas_spa_congelado",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "congelado"
+             },
+             {
+             "spanish": "seco",
+             "english": "dried",
+             "french": " ",
+             "chinese": "干的",
+             "englishaudio": "oas_eng_dried",
+             "spanishaudio": "oas_spa_seco",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "seco"
+             },
+             {
+             "spanish": "a la plancha",
+             "english": "grilled",
+             "french": " ",
+             "chinese": "（明火）烤",
+             "englishaudio": "oas_eng_grilled",
+             "spanishaudio": "oas_spa_a_la_plancha",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "a_la_plancha"
+             },
+             {
+             "spanish": "asado",
+             "english": "roasted",
+             "french": " ",
+             "chinese": "（用烤箱）烤（肉类食物）",
+             "englishaudio": "oas_eng_roasted",
+             "spanishaudio": "oas_spa_asado",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "asado"
+             },
+             {
+             "spanish": "al horno",
+             "english": "baked",
+             "french": " ",
+             "chinese": "（用烤箱）烘焙（面包、蛋糕或薯类、豆类等）",
+             "englishaudio": "oas_eng_baked",
+             "spanishaudio": "oas_spa_al_horno",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "al_horno"
+             },
+             {
+             "spanish": "caliente",
+             "english": "hot",
+             "french": " ",
+             "chinese": "热",
+             "englishaudio": "oas_eng_hot",
+             "spanishaudio": "oas_spa_caliente",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "caliente"
+             },
+             {
+             "spanish": "frío",
+             "english": "cold",
+             "french": " ",
+             "chinese": "冷",
+             "englishaudio": "oas_eng_cold",
+             "spanishaudio": "oas_spa_frio",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "oas_frio"
+             },
+             {
+             "spanish": "tibio",
+             "english": "warm",
+             "french": " ",
+             "chinese": "凉",
+             "englishaudio": "oas_eng_warm",
+             "spanishaudio": "oas_spa_tibio",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "tibio"
+             },
+             {
+             "spanish": "poco hecho",
+             "english": "rare",
+             "french": " ",
+             "chinese": "（牛排）三分熟",
+             "englishaudio": "oas_eng_rare",
+             "spanishaudio": "oas_spa_poco_hecho",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "poco_hecho"
+             },
+             {
+             "spanish": "al punto",
+             "english": "medium",
+             "french": " ",
+             "chinese": "（牛排）五分熟",
+             "englishaudio": "oas_eng_medium",
+             "spanishaudio": "oas_spa_al_punto",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "al_punto"
+             },
+             {
+             "spanish": "bien hecho",
+             "english": "well-done",
+             "french": " ",
+             "chinese": "（牛排）全熟",
+             "englishaudio": "oas_eng_well_done",
+             "spanishaudio": "oas_spa_bien_hecho",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "bien_hecho"
+             },
+             {
+             "spanish": "picante",
+             "english": "spicy",
+             "french": " ",
+             "chinese": "辣",
+             "englishaudio": "oas_eng_spicy",
+             "spanishaudio": "oas_spa_picante",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "picante"
+             },
+             {
+             "spanish": "dulce",
+             "english": "sweet",
+             "french": " ",
+             "chinese": "甜",
+             "englishaudio": "oas_eng_sweet",
+             "spanishaudio": "oas_spa_dulce",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "dulce"
+             },
+             {
+             "spanish": "ácido",
+             "english": "sour",
+             "french": " ",
+             "chinese": "酸",
+             "englishaudio": "oas_eng_sour",
+             "spanishaudio": "oas_spa_acido",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "acido"
+             }
+             ]
+}

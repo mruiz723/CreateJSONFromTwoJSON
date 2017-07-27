@@ -1,0 +1,114 @@
+{
+    "items":[
+             {
+             "spanish": "Es la hora para (de) _____.",
+             "english": "It’s time for _____.",
+             "french": " ",
+             "chinese": "现在是______的时候了",
+             "englishaudio": "oas_eng_its_time_for",
+             "spanishaudio": "oas_spa_es_la_hora_para",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "es_la_hora"
+             },
+             {
+             "spanish": "las tapas",
+             "english": "appetizers",
+             "french": " ",
+             "chinese": "开胃菜",
+             "englishaudio": "oas_eng_appetizers",
+             "spanishaudio": "oas_spa_las_tapas",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "tapas"
+             },
+             {
+             "spanish": "el desayuno",
+             "english": "breakfast",
+             "french": " ",
+             "chinese": "早餐",
+             "englishaudio": "oas_eng_breakfast",
+             "spanishaudio": "oas_spa_el_desayuno",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "desayuno"
+             },
+             {
+             "spanish": "el postre",
+             "english": "dessert",
+             "french": " ",
+             "chinese": "甜点",
+             "englishaudio": "oas_eng_dessert",
+             "spanishaudio": "oas_spa_el_postre",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "postre"
+             },
+             {
+             "spanish": "la cena, la comida",
+             "english": "dinner",
+             "french": " ",
+             "chinese": "晚餐",
+             "englishaudio": "oas_eng_dinner",
+             "spanishaudio": "oas_spa_la_cena",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "cena"
+             },
+             {
+             "spanish": "el primer plato",
+             "english": "first course",
+             "french": " ",
+             "chinese": "第一道菜",
+             "englishaudio": "oas_eng_first_course",
+             "spanishaudio": "oas_spa_el_primer_plato",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "primer_plato"
+             },
+             {
+             "spanish": "el almuerzo",
+             "english": "lunch",
+             "french": " ",
+             "chinese": "午餐",
+             "englishaudio": "oas_eng_lunch",
+             "spanishaudio": "oas_spa_el_almuerzo",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "almuerzo"
+             },
+             {
+             "spanish": "el plato principal",
+             "english": "main course",
+             "french": " ",
+             "chinese": "主菜",
+             "englishaudio": "oas_eng_main_course",
+             "spanishaudio": "oas_spa_el_plato_principal",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "plato_principal"
+             },
+             {
+             "spanish": "los refrescos",
+             "english": "refreshments",
+             "french": " ",
+             "chinese": "茶点",
+             "englishaudio": "oas_eng_refreshments",
+             "spanishaudio": "oas_spa_los_refrescos",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "refrescos"
+             },
+             {
+             "spanish": "el bocado, la merienda",
+             "english": "snack",
+             "french": " ",
+             "chinese": "小吃；零食",
+             "englishaudio": "oas_eng_snack",
+             "spanishaudio": "oas_spa_el_bocado",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "bocado"
+             }
+             ]
+}

@@ -1,0 +1,147 @@
+{
+    "items":[
+             {
+             "spanish": "la cerveza",
+             "english": "beer",
+             "french": " ",
+             "chinese": "啤酒",
+             "englishaudio": "oas_eng_beer",
+             "spanishaudio": "oas_spa_la_cerveza",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "cerveza"
+             },
+             {
+             "spanish": "el vino",
+             "english": "wine",
+             "french": " ",
+             "chinese": "红酒",
+             "englishaudio": "oas_eng_wine",
+             "spanishaudio": "oas_spa_el_vino",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "vino"
+             },
+             {
+             "spanish": "el café",
+             "english": "coffee",
+             "french": " ",
+             "chinese": "咖啡",
+             "englishaudio": "oas_eng_coffee",
+             "spanishaudio": "oas_spa_el_cafe",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "cafe"
+             },
+             {
+             "spanish": "el té",
+             "english": "tea",
+             "french": " ",
+             "chinese": "茶",
+             "englishaudio": "oas_eng_tea",
+             "spanishaudio": "oas_spa_el_te",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "te"
+             },
+             {
+             "spanish": "el jugo, el zumo (Esp.)",
+             "english": "juice",
+             "french": " ",
+             "chinese": "果汁",
+             "englishaudio": "oas_eng_juice",
+             "spanishaudio": "oas_spa_el_jugo",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "jugo"
+             },
+             {
+             "spanish": "(con) hielo",
+             "english": "(with) ice",
+             "french": " ",
+             "chinese": "（带）冰块",
+             "englishaudio": "oas_eng_with_ice",
+             "spanishaudio": "oas_spa_con_hielo",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "con_hielo"
+             },
+             {
+             "spanish": "con limón",
+             "english": "with lemon",
+             "french": " ",
+             "chinese": "柠檬",
+             "englishaudio": "oas_eng_with_lemon",
+             "spanishaudio": "oas_spa_con_limon",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "limon"
+             },
+             {
+             "spanish": "con azúcar",
+             "english": "with sugar",
+             "french": " ",
+             "chinese": "糖",
+             "englishaudio": "oas_eng_with_sugar",
+             "spanishaudio": "oas_spa_con_azucar",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "azucar"
+             },
+             {
+             "spanish": "la leche",
+             "english": "milk",
+             "french": " ",
+             "chinese": "牛奶",
+             "englishaudio": "oas_eng_milk",
+             "spanishaudio": "oas_spa_la_leche",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "leche"
+             },
+             {
+             "spanish": "la crema, la nata (Esp.)",
+             "english": "cream",
+             "french": " ",
+             "chinese": "奶油",
+             "englishaudio": "oas_eng_cream",
+             "spanishaudio": "oas_spa_la_crema",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "crema"
+             },
+             {
+             "spanish": "la soda, la gaseosa",
+             "english": "soda",
+             "french": " ",
+             "chinese": "苏打汽水",
+             "englishaudio": "oas_eng_soda",
+             "spanishaudio": "oas_spa_la_soda",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "soda"
+             },
+             {
+             "spanish": "el batido",
+             "english": "shake",
+             "french": " ",
+             "chinese": "摇",
+             "englishaudio": "oas_eng_shake",
+             "spanishaudio": "oas_spa_el_batido",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "batido"
+             },
+             {
+             "spanish": "el agua (con/sin gas)",
+             "english": "water (sparkling/still)",
+             "french": " ",
+             "chinese": "水（有/无气泡）",
+             "englishaudio": "oas_eng_sparkling_water_still_water",
+             "spanishaudio": "oas_spa_el_agua_con_gas_sin_gas",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "agua"
+             }
+             ]
+}

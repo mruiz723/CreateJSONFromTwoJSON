@@ -1,0 +1,169 @@
+{
+    "items":[
+             {
+             "spanish": "la cuadra, la manzana (Esp.)",
+             "english": "block",
+             "french": " ",
+             "chinese": "街区",
+             "englishaudio": "oas_eng_block",
+             "spanishaudio": "oas_spa_la_cuadra",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "cuadra"
+             },
+             {
+             "spanish": "el puente",
+             "english": "bridge",
+             "french": " ",
+             "chinese": "桥",
+             "englishaudio": "oas_eng_bridge",
+             "spanishaudio": "oas_spa_el_puente",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "puente"
+             },
+             {
+             "spanish": "el túnel",
+             "english": "tunnel",
+             "french": " ",
+             "chinese": "隧道",
+             "englishaudio": "oas_eng_tunnel",
+             "spanishaudio": "oas_spa_el_tunel",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "oasis_tunel"
+             },
+             {
+             "spanish": "el edificio",
+             "english": "building",
+             "french": " ",
+             "chinese": "建筑物",
+             "englishaudio": "oas_eng_building",
+             "spanishaudio": "oas_spa_el_edificio",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "building"
+             },
+             {
+             "spanish": "la casa",
+             "english": "house",
+             "french": " ",
+             "chinese": "房子",
+             "englishaudio": "oas_eng_house",
+             "spanishaudio": "oas_spa_la_casa",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "casa"
+             },
+             {
+             "spanish": "la ciudad",
+             "english": "city",
+             "french": " ",
+             "chinese": "城市",
+             "englishaudio": "oas_eng_city",
+             "spanishaudio": "oas_spa_la_ciudad",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "ciudad"
+             },
+             {
+             "spanish": "el pueblo",
+             "english": "village",
+             "french": " ",
+             "chinese": "村",
+             "englishaudio": "oas_eng_village",
+             "spanishaudio": "oas_spa_el_pueblo",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "pueblo"
+             },
+             {
+             "spanish": "el campo",
+             "english": "countryside",
+             "french": " ",
+             "chinese": "乡下",
+             "englishaudio": "oas_eng_countryside",
+             "spanishaudio": "oas_spa_el_campo",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "oas_campo"
+             },
+             {
+             "spanish": "la fuente",
+             "english": "fountain",
+             "french": " ",
+             "chinese": "喷泉",
+             "englishaudio": "oas_eng_fountain",
+             "spanishaudio": "oas_spa_la_fuente",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "fuente"
+             },
+             {
+             "spanish": "el jardín",
+             "english": "garden",
+             "french": " ",
+             "chinese": "花园",
+             "englishaudio": "oas_eng_garden",
+             "spanishaudio": "oas_spa_el_jardin",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "jardin"
+             },
+             {
+             "spanish": "el parque",
+             "english": "park",
+             "french": " ",
+             "chinese": "公园",
+             "englishaudio": "oas_eng_park",
+             "spanishaudio": "oas_spa_el_parque",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "parque"
+             },
+             {
+             "spanish": "la senda, el sendero",
+             "english": "path, trail",
+             "french": " ",
+             "chinese": "小径，步道",
+             "englishaudio": "oas_eng_path",
+             "spanishaudio": "oas_spa_la_senda",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "senda"
+             },
+             {
+             "spanish": "la acera",
+             "english": "sidewalk",
+             "french": " ",
+             "chinese": "人行道",
+             "englishaudio": "oas_eng_sidewalk",
+             "spanishaudio": "oas_spa_la_acera",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "acera_la_vereda"
+             },
+             {
+             "spanish": "la calle",
+             "english": "street",
+             "french": " ",
+             "chinese": "街",
+             "englishaudio": "oas_eng_street",
+             "spanishaudio": "oas_spa_la_calle",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "calle"
+             },
+             {
+             "spanish": "el centro",
+             "english": "town center, downtown",
+             "french": " ",
+             "chinese": "市／镇中心",
+             "englishaudio": "oas_eng_town_center",
+             "spanishaudio": "oas_spa_el_centro",
+             "frenchaudio": " ",
+             "chineseaudio": " ",
+             "image": "centro"
+             }
+             ]
+}
