@@ -7,16 +7,36 @@
 //
 
 import UIKit
+import SwiftyJSON
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        let fileManager = FileManager.default
+
+        let bundle = Bundle.main.bundlePath
+        let path = "\(bundle)/CabinaChinese/lessons"
+        let path2 = "\(bundle)/csv_to_json"
+        if let files = fileManager.subpaths(atPath: path) {
+            if let files2 = fileManager.subpaths(atPath: path2) {
+                for item in files {
+                    if files2.contains(item){
+                        if let jsonPath = NSData(contentsOfFile:"\(path)/\(item)") {
+                            if let jsonPath2 = NSData(contentsOfFile:"\(path2)/\(item)") {
+                               Utils.compareCreateJSON(jsonData: jsonPath, jsonData2: jsonPath2)
+                            }
+                        }
+                    }
+                }
+            }
+            
+        }
         
-        let p = Bundle.main.paths(forResourcesOfType: "json", inDirectory: nil)
-        print(p)
-        if let path = Bundle.main.path(forResource: "CabinaChinese/lesson/lesson1", ofType:"json") {
+        
+        
+        if let path = Bundle.main.path(forResource: "CreateJSONFromTwoJSON/CabinaChinese/lessons/lesson1", ofType:"json") {
             if let jsonPath = NSData(contentsOfFile: path) {
                 do {
                     let jsonResult = try JSONSerialization.jsonObject(with: jsonPath as Data, options: .mutableContainers)

@@ -7,19 +7,21 @@
 //
 
 import Foundation
+import SwiftyJSON
 
 struct Utils {
     
-    func compareCreateJSON(jsonBase:Dictionary<String, String>, json2:Dictionary<String, String>) -> Dictionary<String, String> {
+    static func compareCreateJSON(jsonData:NSData, jsonData2:NSData) {
         
-        let json: Dictionary<String, String> = Dictionary<String, String>()
+        let jsonResult =  JSON(data: jsonData as Data)
+        let jsonResult2 =  JSON(data: jsonData2 as Data)
+        var result = jsonResult
         
-        for item in jsonBase {
-            if let item2 = json2[item.key] {
-                
-            }
+        for item in jsonResult["items"].array! {
+            print(item)
+            let index = (jsonResult["items"].array?.index(of: item))!
+            result["items"][index]["chinese"] = jsonResult2["items"][index]["chinese"]
+            print(result["items"].array![index]["chinese"])
         }
-        
-        return json
     }
 }
